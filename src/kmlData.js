@@ -555,4 +555,1231 @@ export const kmlData = {
   </Document></kml>
   `,
   },
+  industry: `<?xml version="1.0" encoding="utf-8" ?>
+  <kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+  <Schema name="Industry_layer" id="Industry_layer">
+    <SimpleField name="company" type="float"></SimpleField>
+  </Schema>
+  <Folder><name>Industry_layer</name>
+    <Placemark>
+    <ExtendedData><SchemaData schemaUrl="#Industry_layer">
+      <SimpleData name="company">1</SimpleData>
+    </SchemaData></ExtendedData>
+        <Point><coordinates>80.019254871827,13.5611702228885</coordinates></Point>
+    </Placemark>
+    <Placemark>
+    <ExtendedData><SchemaData schemaUrl="#Industry_layer">
+      <SimpleData name="company">2</SimpleData>
+    </SchemaData></ExtendedData>
+        <Point><coordinates>80.0175684673979,13.554587359535</coordinates></Point>
+    </Placemark>
+    <Placemark>
+    <ExtendedData><SchemaData schemaUrl="#Industry_layer">
+      <SimpleData name="company">3</SimpleData>
+    </SchemaData></ExtendedData>
+        <Point><coordinates>80.0161025927787,13.5607919023485</coordinates></Point>
+    </Placemark>
+    <Placemark>
+    <ExtendedData><SchemaData schemaUrl="#Industry_layer">
+      <SimpleData name="company">4</SimpleData>
+    </SchemaData></ExtendedData>
+        <Point><coordinates>80.0215769210026,13.5521912528926</coordinates></Point>
+    </Placemark>
+    <Placemark>
+    <ExtendedData><SchemaData schemaUrl="#Industry_layer">
+      <SimpleData name="company">5</SimpleData>
+    </SchemaData></ExtendedData>
+        <Point><coordinates>80.0134692074009,13.5534145314072</coordinates></Point>
+    </Placemark>
+    <Placemark>
+    <ExtendedData><SchemaData schemaUrl="#Industry_layer">
+      <SimpleData name="company">6</SimpleData>
+    </SchemaData></ExtendedData>
+        <Point><coordinates>80.0130022030975,13.5554701295769</coordinates></Point>
+    </Placemark>
+    <Placemark>
+    <ExtendedData><SchemaData schemaUrl="#Industry_layer">
+      <SimpleData name="company">7</SimpleData>
+    </SchemaData></ExtendedData>
+        <Point><coordinates>80.0126130328446,13.5518759739046</coordinates></Point>
+    </Placemark>
+    <Placemark>
+    <ExtendedData><SchemaData schemaUrl="#Industry_layer">
+      <SimpleData name="company">8</SimpleData>
+    </SchemaData></ExtendedData>
+        <Point><coordinates>80.0088640260752,13.551497638567</coordinates></Point>
+    </Placemark>
+    <Placemark>
+    <ExtendedData><SchemaData schemaUrl="#Industry_layer">
+      <SimpleData name="company">9</SimpleData>
+    </SchemaData></ExtendedData>
+        <Point><coordinates>80.0083970217717,13.548924942303</coordinates></Point>
+    </Placemark>
+    <Placemark>
+    <ExtendedData><SchemaData schemaUrl="#Industry_layer">
+      <SimpleData name="company">10</SimpleData>
+    </SchemaData></ExtendedData>
+        <Point><coordinates>80.0060101108874,13.5479412569626</coordinates></Point>
+    </Placemark>
+    <Placemark>
+    <ExtendedData><SchemaData schemaUrl="#Industry_layer">
+      <SimpleData name="company">11</SimpleData>
+    </SchemaData></ExtendedData>
+        <Point><coordinates>80.0108617667067,13.5479664797144</coordinates></Point>
+    </Placemark>
+    <Placemark>
+    <ExtendedData><SchemaData schemaUrl="#Industry_layer">
+      <SimpleData name="company">12</SimpleData>
+    </SchemaData></ExtendedData>
+        <Point><coordinates>80.0012168306062,13.5475503039664</coordinates></Point>
+    </Placemark>
+    <Placemark>
+    <ExtendedData><SchemaData schemaUrl="#Industry_layer">
+      <SimpleData name="company">13</SimpleData>
+    </SchemaData></ExtendedData>
+        <Point><coordinates>80.0014049295617,13.5453243819177</coordinates></Point>
+    </Placemark>
+    <Placemark>
+    <ExtendedData><SchemaData schemaUrl="#Industry_layer">
+      <SimpleData name="company">14</SimpleData>
+    </SchemaData></ExtendedData>
+        <Point><coordinates>80.0035064489272,13.5442334833347</coordinates></Point>
+    </Placemark>
+    <Placemark>
+    <ExtendedData><SchemaData schemaUrl="#Industry_layer">
+      <SimpleData name="company">15</SimpleData>
+    </SchemaData></ExtendedData>
+        <Point><coordinates>79.9974678238367,13.5449460361551</coordinates></Point>
+    </Placemark>
+    <Placemark>
+    <ExtendedData><SchemaData schemaUrl="#Industry_layer">
+      <SimpleData name="company">16</SimpleData>
+    </SchemaData></ExtendedData>
+        <Point><coordinates>79.9939263745355,13.5506589930885</coordinates></Point>
+    </Placemark>
+    <Placemark>
+    <ExtendedData><SchemaData schemaUrl="#Industry_layer">
+      <SimpleData name="company">17</SimpleData>
+    </SchemaData></ExtendedData>
+        <Point><coordinates>79.9936539553585,13.5432182495226</coordinates></Point>
+    </Placemark>
+    <Placemark>
+    <ExtendedData><SchemaData schemaUrl="#Industry_layer">
+      <SimpleData name="company">18</SimpleData>
+    </SchemaData></ExtendedData>
+        <Point><coordinates>79.9938615128267,13.5373916064659</coordinates></Point>
+    </Placemark>
+    <Placemark>
+    <ExtendedData><SchemaData schemaUrl="#Industry_layer">
+      <SimpleData name="company">19</SimpleData>
+    </SchemaData></ExtendedData>
+        <Point><coordinates>79.9971564876345,13.5381483214186</coordinates></Point>
+    </Placemark>
+    <Placemark>
+    <ExtendedData><SchemaData schemaUrl="#Industry_layer">
+      <SimpleData name="company">20</SimpleData>
+    </SchemaData></ExtendedData>
+        <Point><coordinates>79.9909816529555,13.5535595588548</coordinates></Point>
+    </Placemark>
+    <Placemark>
+    <ExtendedData><SchemaData schemaUrl="#Industry_layer">
+      <SimpleData name="company">21</SimpleData>
+    </SchemaData></ExtendedData>
+        <Point><coordinates>79.9851440991623,13.5514913329729</coordinates></Point>
+    </Placemark>
+    <Placemark>
+    <ExtendedData><SchemaData schemaUrl="#Industry_layer">
+      <SimpleData name="company">22</SimpleData>
+    </SchemaData></ExtendedData>
+        <Point><coordinates>79.9888541889064,13.550986884906</coordinates></Point>
+    </Placemark>
+    <Placemark>
+    <ExtendedData><SchemaData schemaUrl="#Industry_layer">
+      <SimpleData name="company">23</SimpleData>
+    </SchemaData></ExtendedData>
+        <Point><coordinates>79.98439170334,13.5537361138891</coordinates></Point>
+    </Placemark>
+    <Placemark>
+    <ExtendedData><SchemaData schemaUrl="#Industry_layer">
+      <SimpleData name="company">24</SimpleData>
+    </SchemaData></ExtendedData>
+        <Point><coordinates>79.9882574611853,13.5352223435991</coordinates></Point>
+    </Placemark>
+    <Placemark>
+    <ExtendedData><SchemaData schemaUrl="#Industry_layer">
+      <SimpleData name="company">25</SimpleData>
+    </SchemaData></ExtendedData>
+        <Point><coordinates>79.9896844187792,13.5321449832895</coordinates></Point>
+    </Placemark>
+    <Placemark>
+    <ExtendedData><SchemaData schemaUrl="#Industry_layer">
+      <SimpleData name="company">26</SimpleData>
+    </SchemaData></ExtendedData>
+        <Point><coordinates>79.9908259848543,13.5289414593969</coordinates></Point>
+    </Placemark>
+    <Placemark>
+    <ExtendedData><SchemaData schemaUrl="#Industry_layer">
+      <SimpleData name="company">27</SimpleData>
+    </SchemaData></ExtendedData>
+        <Point><coordinates>79.9879720696665,13.5306062882167</coordinates></Point>
+    </Placemark>
+    <Placemark>
+    <ExtendedData><SchemaData schemaUrl="#Industry_layer">
+      <SimpleData name="company">28</SimpleData>
+    </SchemaData></ExtendedData>
+        <Point><coordinates>79.9883093505524,13.524779336427</coordinates></Point>
+    </Placemark>
+    <Placemark>
+    <ExtendedData><SchemaData schemaUrl="#Industry_layer">
+      <SimpleData name="company">29</SimpleData>
+    </SchemaData></ExtendedData>
+        <Point><coordinates>79.9899179209309,13.5236820373472</coordinates></Point>
+    </Placemark>
+    <Placemark>
+    <ExtendedData><SchemaData schemaUrl="#Industry_layer">
+      <SimpleData name="company">30</SimpleData>
+    </SchemaData></ExtendedData>
+        <Point><coordinates>79.9855332694152,13.5242496064678</coordinates></Point>
+    </Placemark>
+    <Placemark>
+    <ExtendedData><SchemaData schemaUrl="#Industry_layer">
+      <SimpleData name="company">31</SimpleData>
+    </SchemaData></ExtendedData>
+        <Point><coordinates>79.9868175312497,13.5227234730953</coordinates></Point>
+    </Placemark>
+    <Placemark>
+    <ExtendedData><SchemaData schemaUrl="#Industry_layer">
+      <SimpleData name="company">32</SimpleData>
+    </SchemaData></ExtendedData>
+        <Point><coordinates>79.9836911968849,13.5221306748515</coordinates></Point>
+    </Placemark>
+    <Placemark>
+    <ExtendedData><SchemaData schemaUrl="#Industry_layer">
+      <SimpleData name="company">33</SimpleData>
+    </SchemaData></ExtendedData>
+        <Point><coordinates>79.9814599541017,13.52139913456</coordinates></Point>
+    </Placemark>
+    <Placemark>
+    <ExtendedData><SchemaData schemaUrl="#Industry_layer">
+      <SimpleData name="company">34</SimpleData>
+    </SchemaData></ExtendedData>
+        <Point><coordinates>79.9802794710013,13.5211594915623</coordinates></Point>
+    </Placemark>
+    <Placemark>
+    <ExtendedData><SchemaData schemaUrl="#Industry_layer">
+      <SimpleData name="company">35</SimpleData>
+    </SchemaData></ExtendedData>
+        <Point><coordinates>79.9839311852075,13.5234234776328</coordinates></Point>
+    </Placemark>
+    <Placemark>
+    <ExtendedData><SchemaData schemaUrl="#Industry_layer">
+      <SimpleData name="company">36</SimpleData>
+    </SchemaData></ExtendedData>
+        <Point><coordinates>79.9815377881523,13.524281138046</coordinates></Point>
+    </Placemark>
+    <Placemark>
+    <ExtendedData><SchemaData schemaUrl="#Industry_layer">
+      <SimpleData name="company">37</SimpleData>
+    </SchemaData></ExtendedData>
+        <Point><coordinates>79.9839182128657,13.5247667238226</coordinates></Point>
+    </Placemark>
+    <Placemark>
+    <ExtendedData><SchemaData schemaUrl="#Industry_layer">
+      <SimpleData name="company">38</SimpleData>
+    </SchemaData></ExtendedData>
+        <Point><coordinates>79.9817194009369,13.5253342903587</coordinates></Point>
+    </Placemark>
+    <Placemark>
+    <ExtendedData><SchemaData schemaUrl="#Industry_layer">
+      <SimpleData name="company">39</SimpleData>
+    </SchemaData></ExtendedData>
+        <Point><coordinates>79.979527075179,13.5182459179442</coordinates></Point>
+    </Placemark>
+    <Placemark>
+    <ExtendedData><SchemaData schemaUrl="#Industry_layer">
+      <SimpleData name="company">40</SimpleData>
+    </SchemaData></ExtendedData>
+        <Point><coordinates>79.9766472153077,13.5172747188222</coordinates></Point>
+    </Placemark>
+    <Placemark>
+    <ExtendedData><SchemaData schemaUrl="#Industry_layer">
+      <SimpleData name="company">41</SimpleData>
+    </SchemaData></ExtendedData>
+        <Point><coordinates>79.9747921704357,13.5163918070953</coordinates></Point>
+    </Placemark>
+    <Placemark>
+    <ExtendedData><SchemaData schemaUrl="#Industry_layer">
+      <SimpleData name="company">42</SimpleData>
+    </SchemaData></ExtendedData>
+        <Point><coordinates>79.9751813406886,13.5144115503286</coordinates></Point>
+    </Placemark>
+    <Placemark>
+    <ExtendedData><SchemaData schemaUrl="#Industry_layer">
+      <SimpleData name="company">43</SimpleData>
+    </SchemaData></ExtendedData>
+        <Point><coordinates>79.9805778348618,13.5139953159224</coordinates></Point>
+    </Placemark>
+    <Placemark>
+    <ExtendedData><SchemaData schemaUrl="#Industry_layer">
+      <SimpleData name="company">44</SimpleData>
+    </SchemaData></ExtendedData>
+        <Point><coordinates>79.9882963782106,13.5128853539529</coordinates></Point>
+    </Placemark>
+    <Placemark>
+    <ExtendedData><SchemaData schemaUrl="#Industry_layer">
+      <SimpleData name="company">45</SimpleData>
+    </SchemaData></ExtendedData>
+        <Point><coordinates>79.9890487740328,13.5168458763919</coordinates></Point>
+    </Placemark>
+    <Placemark>
+    <ExtendedData><SchemaData schemaUrl="#Industry_layer">
+      <SimpleData name="company">46</SimpleData>
+    </SchemaData></ExtendedData>
+        <Point><coordinates>79.970238878477,13.5144493897841</coordinates></Point>
+    </Placemark>
+    <Placemark>
+    <ExtendedData><SchemaData schemaUrl="#Industry_layer">
+      <SimpleData name="company">47</SimpleData>
+    </SchemaData></ExtendedData>
+        <Point><coordinates>79.9734560192341,13.5131628449297</coordinates></Point>
+    </Placemark>
+    <Placemark>
+    <ExtendedData><SchemaData schemaUrl="#Industry_layer">
+      <SimpleData name="company">48</SimpleData>
+    </SchemaData></ExtendedData>
+        <Point><coordinates>79.9857537992251,13.5115357341421</coordinates></Point>
+    </Placemark>
+    <Placemark>
+    <ExtendedData><SchemaData schemaUrl="#Industry_layer">
+      <SimpleData name="company">49</SimpleData>
+    </SchemaData></ExtendedData>
+        <Point><coordinates>79.9943674341555,13.5121033321896</coordinates></Point>
+    </Placemark>
+    <Placemark>
+    <ExtendedData><SchemaData schemaUrl="#Industry_layer">
+      <SimpleData name="company">50</SimpleData>
+    </SchemaData></ExtendedData>
+        <Point><coordinates>79.9944971575731,13.5131628449297</coordinates></Point>
+    </Placemark>
+    <Placemark>
+    <ExtendedData><SchemaData schemaUrl="#Industry_layer">
+      <SimpleData name="company">51</SimpleData>
+    </SchemaData></ExtendedData>
+        <Point><coordinates>80.0002179602904,13.5164800984151</coordinates></Point>
+    </Placemark>
+    <Placemark>
+    <ExtendedData><SchemaData schemaUrl="#Industry_layer">
+      <SimpleData name="company">52</SimpleData>
+    </SchemaData></ExtendedData>
+        <Point><coordinates>80.003850215984,13.5166062288154</coordinates></Point>
+    </Placemark>
+    <Placemark>
+    <ExtendedData><SchemaData schemaUrl="#Industry_layer">
+      <SimpleData name="company">54</SimpleData>
+    </SchemaData></ExtendedData>
+        <Point><coordinates>80.0079754206645,13.5160764806859</coordinates></Point>
+    </Placemark>
+    <Placemark>
+    <ExtendedData><SchemaData schemaUrl="#Industry_layer">
+      <SimpleData name="company">55</SimpleData>
+    </SchemaData></ExtendedData>
+        <Point><coordinates>80.0050436714261,13.5120654923618</coordinates></Point>
+    </Placemark>
+    <Placemark>
+    <ExtendedData><SchemaData schemaUrl="#Industry_layer">
+      <SimpleData name="company">56</SimpleData>
+    </SchemaData></ExtendedData>
+        <Point><coordinates>80.0103363868653,13.514714265804</coordinates></Point>
+    </Placemark>
+    <Placemark>
+    <ExtendedData><SchemaData schemaUrl="#Industry_layer">
+      <SimpleData name="company">57</SimpleData>
+    </SchemaData></ExtendedData>
+        <Point><coordinates>80.0154993788868,13.5114600543003</coordinates></Point>
+    </Placemark>
+    <Placemark>
+    <ExtendedData><SchemaData schemaUrl="#Industry_layer">
+      <SimpleData name="company">58</SimpleData>
+    </SchemaData></ExtendedData>
+        <Point><coordinates>80.0130605786354,13.5125952494045</coordinates></Point>
+    </Placemark>
+    <Placemark>
+    <ExtendedData><SchemaData schemaUrl="#Industry_layer">
+      <SimpleData name="company">59</SimpleData>
+    </SchemaData></ExtendedData>
+        <Point><coordinates>79.9911373210566,13.5058092249373</coordinates></Point>
+    </Placemark>
+    <Placemark>
+    <ExtendedData><SchemaData schemaUrl="#Industry_layer">
+      <SimpleData name="company">60</SimpleData>
+    </SchemaData></ExtendedData>
+        <Point><coordinates>79.9927977808022,13.5060867241479</coordinates></Point>
+    </Placemark>
+    <Placemark>
+    <ExtendedData><SchemaData schemaUrl="#Industry_layer">
+      <SimpleData name="company">61</SimpleData>
+    </SchemaData></ExtendedData>
+        <Point><coordinates>79.993083172321,13.505077634562</coordinates></Point>
+    </Placemark>
+    <Placemark>
+    <ExtendedData><SchemaData schemaUrl="#Industry_layer">
+      <SimpleData name="company">62</SimpleData>
+    </SchemaData></ExtendedData>
+        <Point><coordinates>79.9929793935869,13.5035513784531</coordinates></Point>
+    </Placemark>
+    <Placemark>
+    <ExtendedData><SchemaData schemaUrl="#Industry_layer">
+      <SimpleData name="company">63</SimpleData>
+    </SchemaData></ExtendedData>
+        <Point><coordinates>79.9882055718182,13.5065029723586</coordinates></Point>
+    </Placemark>
+    <Placemark>
+    <ExtendedData><SchemaData schemaUrl="#Industry_layer">
+      <SimpleData name="company">64</SimpleData>
+    </SchemaData></ExtendedData>
+        <Point><coordinates>79.9898530592221,13.5042072913657</coordinates></Point>
+    </Placemark>
+    <Placemark>
+    <ExtendedData><SchemaData schemaUrl="#Industry_layer">
+      <SimpleData name="company">65</SimpleData>
+    </SchemaData></ExtendedData>
+        <Point><coordinates>79.9835485011255,13.5089373791645</coordinates></Point>
+    </Placemark>
+    <Placemark>
+    <ExtendedData><SchemaData schemaUrl="#Industry_layer">
+      <SimpleData name="company">66</SimpleData>
+    </SchemaData></ExtendedData>
+        <Point><coordinates>79.9888412165646,13.5021890920268</coordinates></Point>
+    </Placemark>
+    <Placemark>
+    <ExtendedData><SchemaData schemaUrl="#Industry_layer">
+      <SimpleData name="company">67</SimpleData>
+    </SchemaData></ExtendedData>
+        <Point><coordinates>79.9877515398566,13.5047496795275</coordinates></Point>
+    </Placemark>
+    <Placemark>
+    <ExtendedData><SchemaData schemaUrl="#Industry_layer">
+      <SimpleData name="company">68</SimpleData>
+    </SchemaData></ExtendedData>
+        <Point><coordinates>79.9880985499987,13.5056452479793</coordinates></Point>
+    </Placemark>
+    <Placemark>
+    <ExtendedData><SchemaData schemaUrl="#Industry_layer">
+      <SimpleData name="company">69</SimpleData>
+    </SchemaData></ExtendedData>
+        <Point><coordinates>79.9567314276167,13.5243315885624</coordinates></Point>
+    </Placemark>
+    <Placemark>
+    <ExtendedData><SchemaData schemaUrl="#Industry_layer">
+      <SimpleData name="company">70</SimpleData>
+    </SchemaData></ExtendedData>
+        <Point><coordinates>79.9540461528719,13.5249117687327</coordinates></Point>
+    </Placemark>
+    <Placemark>
+    <ExtendedData><SchemaData schemaUrl="#Industry_layer">
+      <SimpleData name="company">71</SimpleData>
+    </SchemaData></ExtendedData>
+        <Point><coordinates>79.9550709678711,13.5303351237101</coordinates></Point>
+    </Placemark>
+    <Placemark>
+    <ExtendedData><SchemaData schemaUrl="#Industry_layer">
+      <SimpleData name="company">72</SimpleData>
+    </SchemaData></ExtendedData>
+        <Point><coordinates>79.9572503212872,13.5304864713797</coordinates></Point>
+    </Placemark>
+    <Placemark>
+    <ExtendedData><SchemaData schemaUrl="#Industry_layer">
+      <SimpleData name="company">73</SimpleData>
+    </SchemaData></ExtendedData>
+        <Point><coordinates>79.9546039635677,13.5389617873088</coordinates></Point>
+    </Placemark>
+    <Placemark>
+    <ExtendedData><SchemaData schemaUrl="#Industry_layer">
+      <SimpleData name="company">74</SimpleData>
+    </SchemaData></ExtendedData>
+        <Point><coordinates>79.950271201419,13.5436785734651</coordinates></Point>
+    </Placemark>
+  </Folder>
+  </Document></kml>
+  `,
+  road: `<?xml version="1.0" encoding="utf-8" ?>
+  <kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+  <Schema name="Road_Network" id="Road_Network">
+    <SimpleField name="descriptio" type="string"></SimpleField>
+    <SimpleField name="timestamp" type="string"></SimpleField>
+    <SimpleField name="begin" type="string"></SimpleField>
+    <SimpleField name="end" type="string"></SimpleField>
+    <SimpleField name="altitudeMo" type="string"></SimpleField>
+    <SimpleField name="tessellate" type="float"></SimpleField>
+    <SimpleField name="extrude" type="float"></SimpleField>
+    <SimpleField name="visibility" type="float"></SimpleField>
+    <SimpleField name="drawOrder" type="float"></SimpleField>
+    <SimpleField name="icon" type="string"></SimpleField>
+  </Schema>
+  <Folder><name>Road_Network</name>
+    <Placemark>
+    <name>road1</name>
+    <Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+    <ExtendedData><SchemaData schemaUrl="#Road_Network">
+      <SimpleData name="tessellate">-1</SimpleData>
+      <SimpleData name="extrude">0</SimpleData>
+      <SimpleData name="visibility">-1</SimpleData>
+    </SchemaData></ExtendedData>
+        <LineString><coordinates>80.0419298253164,13.5036810245476,18.9741285637278 80.0419759903468,13.5044113339267,19.1256821199908 80.0411759360653,13.5045025351549,19.4951640713664 80.0399454355499,13.5044891670885,19.5174803945857 80.0380407769847,13.5059766069593,19.946091805572 80.0363685152041,13.5067866462606,20.1847008423516 80.0404648564366,13.5091828058448,22.8722273767669 80.0449836958987,13.5121595214981,25.429701293192 80.0466755430528,13.5133008247066,24.7806846923843</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+    <name>road2</name>
+    <Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+    <ExtendedData><SchemaData schemaUrl="#Road_Network">
+      <SimpleData name="tessellate">-1</SimpleData>
+      <SimpleData name="extrude">0</SimpleData>
+      <SimpleData name="visibility">-1</SimpleData>
+    </SchemaData></ExtendedData>
+        <LineString><coordinates>80.0417648207275,13.504430810204,18.6673964557055 80.0419860048928,13.5056661293491,19.7202764230985 80.0422552605619,13.5057401610538,20.2450606584554 80.0433033809705,13.5057298546026,20.801479329201 80.0433580998941,13.5071157031424,21.9779061036259 80.0434244988838,13.5081457746517,22.1854269120807 80.0433149141734,13.5092101469272,23.6379871081106 80.0430891520043,13.5109096476598,25.2389368068683</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+    <name>road3</name>
+    <Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+    <ExtendedData><SchemaData schemaUrl="#Road_Network">
+      <SimpleData name="tessellate">-1</SimpleData>
+      <SimpleData name="extrude">0</SimpleData>
+      <SimpleData name="visibility">-1</SimpleData>
+    </SchemaData></ExtendedData>
+        <LineString><coordinates>80.0364090022007,13.5067599830788,19.5921829332848 80.0353641653693,13.5061322519794,19.7249099539748 80.0345373243362,13.5073798401176,21.6904863879252 80.0342432998403,13.5078687073652,22.2566531206839 80.0339453856729,13.5085255900084,21.7377907011335 80.0337120895549,13.5091872018985,21.9292490399597 80.0334275582804,13.5099676569667,22.7526331355558 80.0332976997654,13.5104553031374,23.3484431549602 80.0332422279147,13.5104490162781,23.3299322741281 80.0328263177069,13.5114221828891,24.6632447923408 80.0335903224528,13.511659742161,25.5957623290762 80.0337961917948,13.5110425869595,24.3528618092446 80.0339318972763,13.5105987759561,23.7271789100035 80.0339916189181,13.5103600578742,24.0119856003545 80.0340687536309,13.5101005467,22.9975743634959 80.0340866856923,13.5099477935011,22.9728729614673 80.0340465651257,13.5094907895273,22.0259662988397 80.0340188424029,13.5091460298936,21.7876238567947 80.0339431378847,13.5088907613034,21.1260473454503 80.033839928663,13.5088488276671,21.6881918253936</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+    <name>road4</name>
+    <Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+    <ExtendedData><SchemaData schemaUrl="#Road_Network">
+      <SimpleData name="tessellate">-1</SimpleData>
+      <SimpleData name="extrude">0</SimpleData>
+      <SimpleData name="visibility">-1</SimpleData>
+    </SchemaData></ExtendedData>
+        <LineString><coordinates>80.0341807017859,13.5111058992001,24.0294408946006 80.0337984557061,13.5110369718216,24.3983769671107 80.0333426203,13.510925610628,23.7791716763976 80.0330837344864,13.5108169787594,23.6403460116806</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+    <name>road5</name>
+    <Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+    <ExtendedData><SchemaData schemaUrl="#Road_Network">
+      <SimpleData name="tessellate">-1</SimpleData>
+      <SimpleData name="extrude">0</SimpleData>
+      <SimpleData name="visibility">-1</SimpleData>
+    </SchemaData></ExtendedData>
+        <LineString><coordinates>80.0339285281948,13.510607471731,23.5815083303752 80.0333032349042,13.5104423847422,23.3422522758575</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+    <name>road6</name>
+    <Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+    <ExtendedData><SchemaData schemaUrl="#Road_Network">
+      <SimpleData name="tessellate">-1</SimpleData>
+      <SimpleData name="extrude">0</SimpleData>
+      <SimpleData name="visibility">-1</SimpleData>
+    </SchemaData></ExtendedData>
+        <LineString><coordinates>80.0340704844824,13.5113904843638,23.9833751895294 80.0337150622971,13.5112862488682,24.1273422269219</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+    <name>road7</name>
+    <Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+    <ExtendedData><SchemaData schemaUrl="#Road_Network">
+      <SimpleData name="tessellate">-1</SimpleData>
+      <SimpleData name="extrude">0</SimpleData>
+      <SimpleData name="visibility">-1</SimpleData>
+    </SchemaData></ExtendedData>
+        <LineString><coordinates>80.0342439236571,13.5118562223323,23.9862546596609 80.0335928170858,13.5116529802051,25.6388347682841 80.0335025642684,13.5118933918794,24.5998261937624 80.0341602012817,13.5121130571034,23.6508476370905</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+    <name>road8</name>
+    <Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+    <ExtendedData><SchemaData schemaUrl="#Road_Network">
+      <SimpleData name="tessellate">-1</SimpleData>
+      <SimpleData name="extrude">0</SimpleData>
+      <SimpleData name="visibility">-1</SimpleData>
+    </SchemaData></ExtendedData>
+        <LineString><coordinates>80.0335025910469,13.511891699094,24.6141445235755 80.0329638618351,13.5117242164835,24.6023336891708</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+    <name>road9</name>
+    <Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+    <ExtendedData><SchemaData schemaUrl="#Road_Network">
+      <SimpleData name="tessellate">-1</SimpleData>
+      <SimpleData name="extrude">0</SimpleData>
+      <SimpleData name="visibility">-1</SimpleData>
+    </SchemaData></ExtendedData>
+        <LineString><coordinates>80.0335039042129,13.5118955520914,24.5865641734205 80.0334087195819,13.5121392684232,23.9425431997225 80.03406989246,13.5123272740272,23.7342247545001</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+    <name>road10</name>
+    <Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+    <ExtendedData><SchemaData schemaUrl="#Road_Network">
+      <SimpleData name="tessellate">-1</SimpleData>
+      <SimpleData name="extrude">0</SimpleData>
+      <SimpleData name="visibility">-1</SimpleData>
+    </SchemaData></ExtendedData>
+        <LineString><coordinates>80.0334087195819,13.5121392684654,23.9425431997225 80.0333384737636,13.512353604697,24.72535072028 80.034149661956,13.5126201936038,23.4989380463624 80.0338620030237,13.5135527953649,23.2818849706051 80.0320740333038,13.513395493605,23.9738991177198 80.0304694433697,13.5131965092063,23.978984638662 80.0291535099396,13.5131050705724,23.9780488473317 80.027531379359,13.5129502123079,23.9737553752961 80.0259840457166,13.5129595948618,23.9749474146225 80.024931282786,13.5131964932556,26.437605444494 80.0236209925059,13.5135264951249,25.1310501208262</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+    <name>road11</name>
+    <Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+    <ExtendedData><SchemaData schemaUrl="#Road_Network">
+      <SimpleData name="tessellate">-1</SimpleData>
+      <SimpleData name="extrude">0</SimpleData>
+      <SimpleData name="visibility">-1</SimpleData>
+    </SchemaData></ExtendedData>
+        <LineString><coordinates>80.0333410503852,13.5123479680846,24.8290297383704 80.0325497779044,13.5121037663164,25.0591467893524 80.0320326057875,13.5133992906261,24.2996857120996 80.0309802103304,13.5160003969843,22.4994605439071</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+    <name>road12</name>
+    <Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+    <ExtendedData><SchemaData schemaUrl="#Road_Network">
+      <SimpleData name="tessellate">-1</SimpleData>
+      <SimpleData name="extrude">0</SimpleData>
+      <SimpleData name="visibility">-1</SimpleData>
+    </SchemaData></ExtendedData>
+        <LineString><coordinates>80.032830638402,13.5114281040783,24.4873376918464 80.0325401111077,13.5121176333622,24.9129180106858</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+    <name>road13</name>
+    <Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+    <ExtendedData><SchemaData schemaUrl="#Road_Network">
+      <SimpleData name="tessellate">-1</SimpleData>
+      <SimpleData name="extrude">0</SimpleData>
+      <SimpleData name="visibility">-1</SimpleData>
+    </SchemaData></ExtendedData>
+        <LineString><coordinates>80.045038653705,13.5122741087478,25.3258100269145 80.0443037135997,13.5126385914626,27.0034098645782 80.0419832781332,13.5123365915298,25.1302034056617 80.0407358421844,13.5124639390784,25.1314752778412 80.0399411249569,13.5124453183485,25.3468237871573 80.0390424504684,13.5128134815903,25.7980921460629 80.0381079520366,13.5128420894652,25.1325205855918 80.0375988256168,13.5130881247479,25.1320632495697 80.0372870631138,13.5129181606094,25.1311361823761 80.0365886698691,13.5130560791529,25.1312407234781 80.0362015965173,13.5134206792747,24.5502371781218 80.0349668495648,13.5136072428713,22.9912527510762 80.0344380024206,13.5135935915795,23.8943101684259 80.0338627215252,13.5135439252424,23.894426393109</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+    <name>road14</name>
+    <Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+    <ExtendedData><SchemaData schemaUrl="#Road_Network">
+      <SimpleData name="tessellate">-1</SimpleData>
+      <SimpleData name="extrude">0</SimpleData>
+      <SimpleData name="visibility">-1</SimpleData>
+    </SchemaData></ExtendedData>
+        <LineString><coordinates>80.0345525713355,13.507356822019,21.7452538725662 80.0343487121708,13.5075518496448,20.8664550708818 80.0342246658639,13.5075626129934,20.5746423399962 80.0342152455909,13.5073747981779,20.0365169814029 80.0342199925829,13.5070764419789,20.7851760892443 80.0341955502838,13.50655605875,19.8510487915594</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+    <name>road15</name>
+    <Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+    <ExtendedData><SchemaData schemaUrl="#Road_Network">
+      <SimpleData name="tessellate">-1</SimpleData>
+      <SimpleData name="extrude">0</SimpleData>
+      <SimpleData name="visibility">-1</SimpleData>
+    </SchemaData></ExtendedData>
+        <LineString><coordinates>80.0342077141769,13.5073616937471,20.1087710678738 80.0334743626645,13.5073739747022,20.5779624985675</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+    <name>road16</name>
+    <Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+    <ExtendedData><SchemaData schemaUrl="#Road_Network">
+      <SimpleData name="tessellate">-1</SimpleData>
+      <SimpleData name="extrude">0</SimpleData>
+      <SimpleData name="visibility">-1</SimpleData>
+    </SchemaData></ExtendedData>
+        <LineString><coordinates>80.0342230526659,13.5075616606848,20.563814052466 80.0338840498172,13.50757485581,21.2757181221109 80.0336406173765,13.5075809349673,21.3477380701255 80.0334007097734,13.5075873344452,21.3973672674391 80.033204687028,13.5075761636516,20.9793974202969 80.0326795706912,13.5075562521079,20.9976940978978 80.0324801917108,13.5075083121202,20.7244419741501 80.0320353027593,13.5074162512122,21.2807144282518 80.0318093749987,13.5073771212431,21.2136322538861 80.0311424978851,13.5072477209914,21.2729101921635</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+    <name>road17</name>
+    <Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+    <ExtendedData><SchemaData schemaUrl="#Road_Network">
+      <SimpleData name="tessellate">-1</SimpleData>
+      <SimpleData name="extrude">0</SimpleData>
+      <SimpleData name="visibility">-1</SimpleData>
+    </SchemaData></ExtendedData>
+        <LineString><coordinates>80.0329352321872,13.5075659628273,20.8136839140115 80.0328967845901,13.5080902405037,21.8307962550584 80.0331695013557,13.5080836486034,21.3156077693509 80.0332686792599,13.508005408335,20.7475986904702 80.0332688085116,13.507918370896,20.8496379273574 80.03332923549,13.5079059304558,20.6745523259198 80.0333282334149,13.5075847218043,21.4142058994726</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+    <name>road18</name>
+    <Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+    <ExtendedData><SchemaData schemaUrl="#Road_Network">
+      <SimpleData name="tessellate">-1</SimpleData>
+      <SimpleData name="extrude">0</SimpleData>
+      <SimpleData name="visibility">-1</SimpleData>
+    </SchemaData></ExtendedData>
+        <LineString><coordinates>80.0324911962074,13.5075157229662,20.8118468600892 80.032480033484,13.5069561155671,19.794997500765 80.0325007504953,13.5065000207653,19.4330510235018 80.032511615271,13.5058545891171,18.6609082373146 80.032485196929,13.5054663638708,17.4830984545174 80.0326010554815,13.5049044967002,16.5251798547045 80.0326411433154,13.5046297415641,16.7496376542813 80.0341809164255,13.5045131083681,17.4670530200848 80.0345548946031,13.5050335605171,17.8176025508692 80.0349486589178,13.5055482611078,19.1945455785951 80.0351607349915,13.5059368923207,19.6266075957109 80.0353547942691,13.5061459077044,20.4828224439188</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+    <name>road19</name>
+    <Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+    <ExtendedData><SchemaData schemaUrl="#Road_Network">
+      <SimpleData name="tessellate">-1</SimpleData>
+      <SimpleData name="extrude">0</SimpleData>
+      <SimpleData name="visibility">-1</SimpleData>
+    </SchemaData></ExtendedData>
+        <LineString><coordinates>80.0311462701564,13.5072485624394,21.2589132181246 80.0311319980349,13.5071511814812,21.2787341609843 80.0310018660436,13.5070456568254,20.1084535910656 80.0308834689351,13.5069990833446,20.1817171989266 80.0306219943501,13.5069837322817,19.9008850523738 80.0304109733689,13.5069714663636,18.7122390854791 80.0302573678334,13.5069680073589,18.9462374379541 80.0296457738296,13.506914976178,19.5636081786726 80.0292558481875,13.5069404922667,18.9737752637782 80.0288459406013,13.5069746459732,19.1979714085725 80.0281828258001,13.5070569031102,19.3232462255988 80.0278345980164,13.5071917045819,18.9859540524751 80.0276576756114,13.5073271155718,18.9365408054834 80.027488985268,13.5076819388474,19.1192344623988 80.0274111311963,13.5079247958577,18.9126206600086 80.0272756726391,13.5081454336199,18.5890618836343 80.0269893523604,13.5083876401393,18.3368458135735 80.0264166335848,13.5087434916998,18.7502544806171 80.0259691213738,13.5088528448165,18.8118305562425 80.0255608841582,13.5089190668278,19.2927701821244 80.025165471019,13.5089418015902,19.0305854186569 80.0238829642843,13.5088887939326,20.0657627999466 80.0221235606408,13.5088691053483,20.8759636923363 80.0208190079992,13.5088535570838,20.9917676434591 80.0191314202792,13.5088042602543,21.4274695226111 80.0186680476645,13.5088307062983,21.8290523981726 80.0183777248604,13.5088943460642,21.7188387470773 80.0180981460662,13.5089942244115,21.7695940639314 80.017666104881,13.5091941015309,22.5606473493182 80.0172486152015,13.5092930104022,22.0455724867554 80.0168839087706,13.509375846524,22.5765341167864 80.01613715595,13.5095889746279,22.3414704661642 80.0155658766729,13.5096775230829,22.9523157224091 80.0153876805662,13.509673822789,26.9819589992 80.0150327426468,13.509712819718,23.2282673305727 80.0146469448449,13.5097534749981,23.6019002621093 80.0138069409621,13.5099027816711,22.1737573020257 80.0135829537313,13.5099298239196,22.0051697988833 80.0132793994838,13.5101124810488,22.5778328446511 80.0130637380615,13.5104215182902,22.6138955044086 80.0115827483338,13.5114056152166,22.6320694442851 80.0112819725162,13.5114749850406,23.2050999831699 80.0109995593737,13.5114476406612,23.0890994355298 80.010776475222,13.5114404253624,23.1704232035209 80.0105889938704,13.5114200436277,23.4803289238577 80.0102955055475,13.5114027605256,23.5636173159344 80.009648756299,13.5113440233021,23.1075251375525 80.0094819433065,13.5113027518587,24.0285970907825 80.0091013022759,13.5110892588226,23.0730605452607 80.0082792765051,13.5106181888831,24.1379065707686</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+    <name>road20</name>
+    <Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+    <ExtendedData><SchemaData schemaUrl="#Road_Network">
+      <SimpleData name="tessellate">-1</SimpleData>
+      <SimpleData name="extrude">0</SimpleData>
+      <SimpleData name="visibility">-1</SimpleData>
+    </SchemaData></ExtendedData>
+        <LineString><coordinates>80.0341866753273,13.50451650726,16.8010743322925 80.0331716076662,13.5031541241427,15.2402452914435 80.0321196462844,13.5009430680579,14.0034575083663 80.0309225654646,13.5009014019024,14.0032210682769 80.0304372453421,13.5000085164347,13.8955838894314 80.0304804627559,13.4994030452751,14.0053924785921 80.0307952792753,13.4987507196473,14.0037563712309 80.0309718419105,13.498031672725,13.9607827098474</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+    <name>road21</name>
+    <Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+    <ExtendedData><SchemaData schemaUrl="#Road_Network">
+      <SimpleData name="tessellate">-1</SimpleData>
+      <SimpleData name="extrude">0</SimpleData>
+      <SimpleData name="visibility">-1</SimpleData>
+    </SchemaData></ExtendedData>
+        <LineString><coordinates>80.0307524668283,13.5069772200425,20.2338634108178 80.0307125564262,13.5056074847746,18.7795530754486 80.029034862892,13.5056988546348,18.3474299426927 80.0261231786943,13.5057926630774,16.7823889899467 80.0250541962671,13.5058178223251,17.5641056482459 80.0229334785321,13.5058301223589,18.7461621517785 80.0200393394364,13.5058785019382,19.2040669502756 80.0177123558597,13.5058532085058,19.1682942990983 80.0160151212981,13.5058688893726,19.5922309422076 80.0141004724967,13.505901591599,19.541662906411 80.0139220724727,13.5069049744935,19.293307063826 80.0135663397263,13.5099383807263,21.9856758732206</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+    <name>road22</name>
+    <Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+    <ExtendedData><SchemaData schemaUrl="#Road_Network">
+      <SimpleData name="tessellate">-1</SimpleData>
+      <SimpleData name="extrude">0</SimpleData>
+      <SimpleData name="visibility">-1</SimpleData>
+    </SchemaData></ExtendedData>
+        <LineString><coordinates>80.027211876052,13.5082021986509,18.7534919756239 80.0261593692042,13.5080688702928,18.6318637020182 80.0254702168868,13.5079171635335,18.582374349772 80.0246433100002,13.5073500366055,18.232098346914 80.0226178983338,13.5076043734499,19.7891487501336 80.0212508324994,13.5078868301503,20.1209280992784 80.0199155240216,13.5081699804347,21.2149801025871 80.019510253771,13.5085121712482,20.637239764887 80.0190165100526,13.5087236558418,21.7139017854368 80.0187053038966,13.5088254239685,21.9694467764011</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+    <name>road23</name>
+    <Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+    <ExtendedData><SchemaData schemaUrl="#Road_Network">
+      <SimpleData name="tessellate">-1</SimpleData>
+      <SimpleData name="extrude">0</SimpleData>
+      <SimpleData name="visibility">-1</SimpleData>
+    </SchemaData></ExtendedData>
+        <LineString><coordinates>80.0277078385733,13.5057385690695,18.0295578788783 80.027629086452,13.5055933783593,17.4999524439739 80.0276243130577,13.5053926940283,17.5504465389279 80.0274536803519,13.5053742954506,17.1004035965631 80.0274912620198,13.5050814400216,16.9901351306717 80.0274394735514,13.5049947093789,17.112855693916 80.0273631358209,13.5049468700629,16.7497036589463 80.0272131085853,13.5048310157085,16.1639650717885 80.0270997660536,13.5046766070828,15.7619510920302 80.026945304,13.5044358154734,16.164177447294 80.0268772274771,13.5041796007324,16.2937133295905 80.026820411897,13.5037728995109,14.826069084277 80.0267288018277,13.5036059686236,15.0130947440065 80.0265964099033,13.5034361030831,14.6279489270671 80.0266592542161,13.5031698982158,14.785273189224 80.0268604629777,13.5025618943465,14.5826060464975 80.0270160788141,13.5020788875924,14.0623541592902 80.0272202089725,13.5013939441172,14.3626558302354 80.0272306846684,13.5010746294264,14.8786818967227 80.0272770377246,13.5007356495497,12.9488157081502 80.027330430985,13.5005287502182,12.4825212467888 80.0274091115558,13.5003625609457,14.9489355755769 80.0274810333171,13.5001311591636,15.6910341736649 80.0275371691603,13.4998272915767,15.4898313179344 80.0276149746005,13.4995199884129,15.4685401210917 80.0276646660521,13.4992729226062,13.6225536928951 80.0277117540017,13.4989758095409,14.7294456123419 80.0277442414433,13.4985541300335,14.8809970056076 80.0277565060502,13.4981837548166,17.2596677024096</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+    <name>road24</name>
+    <Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+    <ExtendedData><SchemaData schemaUrl="#Road_Network">
+      <SimpleData name="tessellate">-1</SimpleData>
+      <SimpleData name="extrude">0</SimpleData>
+      <SimpleData name="visibility">-1</SimpleData>
+    </SchemaData></ExtendedData>
+        <LineString><coordinates>80.0235855735266,13.5135475540272,25.5823016213668 80.0177078531515,13.51484650621,24.6210931435315 80.0132550008515,13.5159200043731,21.5007694770335 80.0072675523086,13.5176397478506,21.5016613364577 80.0037867824192,13.519232962567,19.0283597990151 80.0015121624,13.5208821164945,21.3326058407468 79.9995809073921,13.5231120733144,20.7576481829348 79.9994923905563,13.5234521822902,20.5780660791233 79.999243054586,13.523692196007,20.9640219888095 79.9989950469911,13.5239736058201,20.2102262006813 79.9983533212297,13.5250539094942,20.325123807795 79.9977630263753,13.5262349660632,19.9379093731369 79.9974069451898,13.5273833324741,21.3347898272863 79.9972717072999,13.5280223932714,21.2950690338938 79.996902164076,13.530852879147,22.6833697671665 79.9961317181538,13.5369451773604,23.8026192769653 79.9955913174806,13.539148750727,22.4633870564307 79.9947182486908,13.5418832440068,20.4059748625359 79.9945640375863,13.5425088897677,19.7401765070482 79.994536357497,13.5433475769801,19.2933121381698 79.9946628760862,13.5440696317706,18.4106021929844 79.9949155998932,13.5446956892716,18.3559870376829 79.9953308955922,13.5453161464933,17.8525909917068 79.9957083542663,13.545697056617,17.540037247619 79.9967162708158,13.5463564366227,17.705392580491 79.998743734318,13.5473131963709,17.4370258742548 79.9993145407023,13.5472849260956,18.1285230706493 79.9994997653437,13.5475952371077,18.1760076213808 79.999846721556,13.5479430746415,17.7134165114756 80.0015205068554,13.5487441975774,16.2730271028914 80.0057470041056,13.5507404908573,12.8562867535147 80.0071891898242,13.5514788125813,12.7684400261974 80.011933570891,13.5537692841967,14.2304234470166 80.0143146768603,13.5551888623475,12.9952843744032 80.0147457996241,13.5551358828938,13.8699178966605 80.0150229350567,13.5554119128248,12.7668810935648 80.0150742846649,13.5556869677541,13.3332591224523 80.0253724402324,13.5622563004804,13.2514695843053 80.0256583830587,13.5620861699058,12.6140041082613 80.0258975265629,13.5622068160865,12.748752092824 80.0260444983459,13.5624528409901,13.3953908493343 80.0261073234165,13.5627538719997,13.1796468538387 80.0316514298844,13.5669883952335,19.2361133185461 80.0375586362309,13.5716013549987,19.1219289502766 80.0437496043762,13.5764418658157,10.2971772757827</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+    <name>road25</name>
+    <Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+    <ExtendedData><SchemaData schemaUrl="#Road_Network">
+      <SimpleData name="tessellate">-1</SimpleData>
+      <SimpleData name="extrude">0</SimpleData>
+      <SimpleData name="visibility">-1</SimpleData>
+    </SchemaData></ExtendedData>
+        <LineString><coordinates>80.0082756030651,13.5106275855515,24.528714348165 80.0068019750098,13.5097975712086,23.3807638985314 80.0065373281794,13.5095599104471,23.8592331507935 80.0057392784334,13.5085600400625,22.6581134381813 80.0046143990133,13.5074436258009,21.8785256375736 80.0042040270396,13.5068055196485,22.3016812830096 80.0038919805865,13.5066253672032,21.4302437655363 80.0011977575806,13.5062993058012,22.6571071634093 80.0007131992056,13.5061704304412,22.4445868290739 80.0001848429735,13.5058674911055,23.2956251081541 79.9986820606732,13.5047426169015,25.1311560808205 79.9965586795446,13.5029316314419,26.7714543662452 79.9948767170184,13.5013260768564,28.4057342776223 79.9940772913875,13.5007011438882,29.462084919347 79.9929666994522,13.5001863645829,29.4825916186765 79.9921497764293,13.4999937891051,30.6182019177434 79.990811146115,13.4997800917592,31.8721903173303 79.9901645229382,13.499680391896,31.9350809436629 79.9894086325136,13.4997103731694,32.0534092485591 79.9881655576889,13.4997871470457,33.1793519819361 79.9868288950829,13.4998405336922,32.9094600725292 79.9854320491048,13.4998911873603,32.508549464765 79.9839038336894,13.4999099479914,31.9619062705039 79.9829583973676,13.49979601067,31.5996793957817 79.9813982745726,13.4996079859929,31.9551988183921 79.9805326899701,13.4994747801654,32.0434500431993 79.9793438709125,13.4992740492267,32.5672672362282 79.9789011164643,13.4991348733211,33.0385813440145 79.9783787056991,13.4988292269933,33.1076513455288 79.9780235784973,13.4985908775232,33.9750470045746 79.9774741533535,13.4984967786654,34.2402047351156 79.9771048097212,13.4985295483685,34.8533370477676 79.976082117505,13.4988490427389,35.9942963729193 79.9755814519203,13.4990448700814,37.1256994581367 79.9750552187958,13.4991697007959,36.5096259273651 79.9745548866264,13.4992897640077,36.1370823429984 79.9738638026956,13.4994241682135,36.2981001417811 79.9734994382273,13.4998189014359,36.0978390542703 79.9723881189143,13.5001362726427,35.2866650761746 79.9716441253898,13.5003937994413,34.8996822746306 79.9709569783585,13.5003369818995,35.1012825588529 79.9707751036948,13.5002177521676,34.8465690868999 79.9706953956872,13.4998123741569,35.0459418671686 79.9706009442495,13.499563467748,35.0461137257293 79.9704299888829,13.4994862847748,34.9533970415928 79.9702383643466,13.4995149119052,34.6795430344642 79.9699508271854,13.4997533161035,34.0337332576715 79.9693024045523,13.500210518624,33.9227927913514 79.9680255833569,13.5011763871961,34.2894137521473 79.9673644770716,13.5018646164628,33.9618363642625 79.9638270226393,13.5051974125076,39.3243805248752 79.9621798508832,13.5066410922318,41.0839724415556 79.9595483845064,13.5089716561254,46.1154913073031 79.9555572327694,13.5124969552681,46.4915522465693 79.9554495887116,13.51355080116,42.5926875626924 79.9552642172222,13.5138340536516,42.2154277357868 79.9548297668261,13.5140475449754,42.4012841490049 79.9543870259342,13.5140268463355,43.3013663754538 79.9538975747008,13.5139891897342,42.90033989101 79.9532356365207,13.5147317342113,40.4414034360954 79.9524800969221,13.5156091293046,38.5880668300923 79.9522644476893,13.5159970885256,38.5127202642219 79.9520764295256,13.5167741452097,37.9213231768372 79.9518304530666,13.5177863548436,39.3190866813952 79.9516736753862,13.5180802697757,38.6356073655342 79.9513357684133,13.5184461868375,39.818331007349 79.9509391657319,13.5188540999105,40.5901214385718 79.9503803094482,13.5195677777873,42.7365258062508 79.9501439203017,13.5199969803898,43.8401592712601 79.9498007282647,13.5206537338259,44.2490626905734 79.9495616634993,13.5214772209014,44.7987773680225 79.9493760149348,13.5229478378271,47.9761845857635 79.949476114083,13.5242274566754,48.5828752106398 79.9498532678228,13.52631611157,49.3138408412988 79.9499906289866,13.526987556142,48.839758048741 79.9499709446458,13.5273592086053,48.9449986915398 79.9496375084287,13.5282979918079,48.6454294265099 79.9493141842088,13.5289361859148,47.921109293436 79.949041427295,13.5292347883836,47.224818426552 79.948590809259,13.5295096759859,45.6345361683869 79.9474353636888,13.5302388225582,43.7908133770932 79.9457200448846,13.5311737825868,40.8546063425294 79.9446880723066,13.5320724681052,40.6095411574381 79.9441350745332,13.5329463732951,40.399866416649 79.943519855047,13.5343389413872,40.4598982719853 79.9432439809847,13.5350269762478,39.9251006205273 79.942135744593,13.5379743738646,37.4084563936908 79.9414787299718,13.5412342075667,37.0761080149594 79.9413541087656,13.5427184947035,38.0992137176556 79.9414445719478,13.5438820165214,38.7421568735682 79.9414541896878,13.5450364170047,38.5655746038326 79.9414354347214,13.54662518862,36.6683527073105 79.9415143959221,13.5469485786627,36.9857223827952 79.942045708461,13.5474999847629,35.8819661079145 79.9431758189365,13.5484111160202,34.9048766188154 79.9439407040579,13.5491338915969,35.125887098491 79.9442564437897,13.5496836853641,34.4274740326655 79.9445566326718,13.5505663100205,34.0998886605052 79.9446329901218,13.5511480209672,34.0507716635225 79.9449305595657,13.5520592836485,33.8174500180114 79.9450421028778,13.5532104217287,34.3939702723953 79.9449125437159,13.5547076831017,33.191605144358 79.9446762404633,13.5556683713505,32.1131438042173 79.9444679143801,13.5583262171724,33.2515917719703 79.947193848085,13.5577033592147,35.8550815355986 79.9497913897641,13.5570394009689,35.3578446763571 79.9508867314672,13.5566211160577,34.6046418819592 79.9520838183055,13.5565927497196,33.1913608557993 79.9522622315058,13.5565064088651,32.9019909284509 79.9523197094485,13.5564063721257,32.5603882735592 79.952573146773,13.5563905792036,31.7716150265089 79.9531300479483,13.5565926422447,31.424599141715 79.9532701852076,13.5567541820833,31.3396557213547 79.9537733222678,13.5593055272446,31.2209533112748 79.9513977258406,13.5573932228435,33.9117443802864 79.9507900792692,13.5567231327838,33.8093816260423</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+    <name>road26</name>
+    <Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+    <ExtendedData><SchemaData schemaUrl="#Road_Network">
+      <SimpleData name="tessellate">-1</SimpleData>
+      <SimpleData name="extrude">0</SimpleData>
+      <SimpleData name="visibility">-1</SimpleData>
+    </SchemaData></ExtendedData>
+        <LineString><coordinates>79.9444988839869,13.5584259165641,33.3040426906387 79.944433822022,13.5594234250766,32.319974987139 79.9444224798786,13.5599557824116,33.1198603369691 79.9445485025933,13.5607928595805,31.4946160692571 79.9448497242289,13.5616955321532,31.3557983124246 79.945075899545,13.562305101313,30.2873456040442 79.9451382112477,13.5629716905014,29.8223598508919 79.9452949769379,13.5636482504113,29.1598551477085 79.9454818320895,13.5642136878737,28.5534181395825 79.9458339025081,13.564907655977,27.6885853764058 79.946373215856,13.5658790645944,26.9908529205592 79.9469744549103,13.5669500967629,27.2600228372777 79.947691095536,13.5682952888235,27.7603041585081 79.9483667698068,13.5695184797552,26.9909021503235 79.948793805218,13.5700485082567,26.700108073798 79.94979169639,13.5709341069504,26.3684208805084 79.9524711684556,13.5724456834955,25.7847788899853 79.9534956837003,13.5731918529816,24.8074436750448 79.9545595376827,13.5738308349903,24.9614005477643 79.955509570169,13.5742901221878,25.7758630019658 79.9561557500915,13.5744077746038,24.7439160339531 79.9577697703674,13.574420266525,23.6313740314374 79.9587041587255,13.5747210081938,22.9642321023161 79.9597366513284,13.57519692708,22.8799480000617 79.960630567395,13.5756005260694,21.8688805845982 79.9616171169868,13.5760832297246,22.540563540737 79.9620336248207,13.5764480779609,23.2663272913792 79.9623074326412,13.5768841847345,23.9925087947667 79.9623820979847,13.5775950638897,23.9992414304493 79.9623379765613,13.5802877895467,24.4580110799033 79.9623765000803,13.5814970687693,23.8944681705055 79.9619310529254,13.5829698835047,25.0192739849163 79.9612685420469,13.5847603798602,23.9593772695149 79.9605201302479,13.5892216831384,22.5579809903092 79.9603231908169,13.5910725772362,21.4209731035035 79.9596251078468,13.5935519050836,20.1849571129823 79.9590959584191,13.5954187151745,19.2332667672827 79.9590695730039,13.5970472598635,18.8609367608726 79.9591765432719,13.5984108361382,17.7139271585227 79.9592757871011,13.6011813144782,15.991943332828 79.9589455158145,13.6029630840598,16.4643763963751 79.9564340468965,13.6037482412532,16.4403339064482</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+    <name>road27</name>
+    <Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+    <ExtendedData><SchemaData schemaUrl="#Road_Network">
+      <SimpleData name="tessellate">-1</SimpleData>
+      <SimpleData name="extrude">0</SimpleData>
+      <SimpleData name="visibility">-1</SimpleData>
+    </SchemaData></ExtendedData>
+        <LineString><coordinates>79.9590119307238,13.6029970919077,16.5543300260407 79.9622117113544,13.6032230829302,17.7271773538186 79.964572951417,13.6032596520684,19.0266572215696 79.9677680799525,13.6024220631892,19.0382251891371</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+    <name>road28</name>
+    <Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+    <ExtendedData><SchemaData schemaUrl="#Road_Network">
+      <SimpleData name="tessellate">-1</SimpleData>
+      <SimpleData name="extrude">0</SimpleData>
+      <SimpleData name="visibility">-1</SimpleData>
+    </SchemaData></ExtendedData>
+        <LineString><coordinates>79.9677499287242,13.6024020279213,19.0557524281569 79.972518334251,13.5997841319071,23.9694932773325 79.9753456346141,13.5983610064023,30.1453802601838 79.9767515028012,13.5982663146818,31.2756723682573 79.9787255324795,13.597774319584,30.344860102458 79.9802881210418,13.5973944398092,29.5168491969802 79.9820751253485,13.5969473562834,28.2664391448585 79.9841469678544,13.5968687388072,27.5804875300412 79.9879227749587,13.5966597687216,24.9494746005902 79.990445533157,13.5971715420324,23.403360501794 79.9915473170671,13.5970481786553,23.534410813299 79.9947501956605,13.5962856764468,20.6502606343603 79.9973148836137,13.5947748711045,17.813602993258 80.0002386412868,13.5924756393235,14.0771681776581 80.0014296922545,13.5911223460642,12.3510405539722 80.0029899622645,13.5889531232039,9.70497688030497 80.0037351675206,13.5881866627025,10.1036074950015 80.0046161459272,13.5882087166618,9.13281210058146 80.0055162084603,13.5887584647568,7.72943182368037 80.0061351605964,13.588818547249,7.82159073175851 80.0073085227219,13.5885509557812,7.23292434866523 80.0090316378853,13.5885237344885,6.72299785279966 80.0108708219107,13.5876127816678,4.29560592105087 80.0124808001131,13.5866695548737,5.34944247510559 80.0135041057177,13.5853363608829,5.35088429748509 80.0145704728185,13.5844013375292,5.35050229997807 80.0155538632391,13.5835986289568,6.60070688432241 80.0161610623949,13.5832301423726,7.75384110788795 80.0174861063317,13.5830353743654,9.70526261381778 80.0193348324277,13.5839016898156,9.99099829104019 80.0209249176511,13.5844691418816,11.5323592674139 80.0221521590299,13.5846633267959,12.7689373797934 80.0242194258725,13.5844905451219,14.3130485712891 80.0255778064162,13.5849923325148,15.2402231281471 80.0267372194598,13.5854947094669,15.5450047076405 80.0286087513324,13.5868946235829,16.6510119314426 80.0296643394564,13.5880613004799,17.2756436535568 80.0306682535957,13.5892595779464,15.3731509256403 80.031193075286,13.5896958135631,15.4513329590039 80.0328628534141,13.5898671984896,14.2010729996627 80.0344181272215,13.588776904581,13.4880186893075 80.0360315118714,13.5864023967283,11.5065737906099 80.0377198449948,13.5842140572494,9.672222488999 80.0394011413383,13.5822629764857,10.2947825292662 80.0429982786184,13.5777964535576,10.2946783842657 80.0439075358087,13.5765630606491,10.2966212001316 80.0512299695851,13.5676742078227,9.36614746252338 80.0535175157848,13.5646576797468,11.7367512824447 80.0543639372896,13.5617965106353,14.0804138054786 80.0550418734032,13.5598838103296,15.5471723846986 80.0575122940517,13.5568177518409,14.0887518874331 80.0598903546646,13.5537553665496,12.76822779923</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+    <name>road29</name>
+    <Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+    <ExtendedData><SchemaData schemaUrl="#Road_Network">
+      <SimpleData name="tessellate">-1</SimpleData>
+      <SimpleData name="extrude">0</SimpleData>
+      <SimpleData name="visibility">-1</SimpleData>
+    </SchemaData></ExtendedData>
+        <LineString><coordinates>79.9639933110499,13.470552559777,50.437705526911 79.9639916906415,13.4717765703716,50.3826724520904 79.9641025460523,13.4729394573121,50.3276393772697 79.9643070166101,13.4741744537917,50.2726063024491 79.9642630127489,13.474723935642,50.2450897650388 79.9640932514379,13.4752907383457,50.2175732276285 79.9636941347786,13.4764012334699,50.1625401528079 79.9634563855336,13.4769848703255,50.1350236153976 79.9633490073208,13.477528520356,50.1075070779873 79.9637584037669,13.4799295435615,49.9974409283461 79.9638917010296,13.4808410692021,49.9699243909358 79.9640215264271,13.4817532238788,49.9424078535255 79.9641606096141,13.4827725863717,49.9148913161152 79.9640206134586,13.4832574274322,49.90113304741 79.9638026828412,13.4837658385577,49.8873747787049 79.9634265843746,13.4845276087036,49.8598582412946 79.9629988969258,13.4852408348991,49.8323417038843 79.9624710201074,13.4859415678544,49.8048251664739 79.9621801735333,13.4862531398368,49.7910668977688 79.9618713613737,13.4865608979812,49.7773086290636 79.9609679921879,13.4871633509717,49.7497920916533 79.9604313008253,13.4874021664597,49.7360338229482 79.9598608425194,13.4875447545559,49.722275554243 79.9593025273608,13.4876970772221,49.6947590168327 79.9590870060351,13.4878671135451,49.6810007481276 79.9589601164568,13.4880567596552,49.6672424794224 79.95885605398,13.4882803305162,49.6397259420121 79.9588319362729,13.4885596603139,49.6122094046018 79.9587423622825,13.4890520248754,49.5571763297812 79.958145091642,13.4908500867312,48.6766471326514 79.9581330493253,13.4916289558162,48.6491305952411 79.9582667801349,13.4924146115804,48.6216140578308 79.9591274975708,13.4938103701536,48.5665809830102 79.9591051750973,13.4943261003125,48.552822714305 79.958998427419,13.4947524916003,48.5390644455999 79.9587277114911,13.4955601899463,48.5115479081896 79.958063325727,13.4971068912665,48.4565148333689 79.9567137706307,13.4989050948463,48.2363825340865 79.9560666642079,13.5015398616364,47.7961179355216 79.9560141898573,13.5042081937791,47.5759856362392 79.9562494206156,13.5069773023946,47.3558533369567 79.9561605150511,13.5088840044479,47.1357210376743 79.9556389561434,13.5108512705454,47.025654888033 79.9555968989286,13.5124046111736,46.9155887383918</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+    <name>road30</name>
+    <Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+    <ExtendedData><SchemaData schemaUrl="#Road_Network">
+      <SimpleData name="tessellate">-1</SimpleData>
+      <SimpleData name="extrude">0</SimpleData>
+      <SimpleData name="visibility">-1</SimpleData>
+    </SchemaData></ExtendedData>
+        <LineString><coordinates>79.9635222570061,13.4785530624986,53.0818786078726 79.9655271058014,13.4781814794582,47.2290929564456 79.9667560069413,13.4779590325469,46.0169828701338 79.9685592136335,13.4775690210808,44.5745508634589 79.9702691440937,13.4772755165008,44.0771304974418 79.9717058774088,13.4770067213489,42.5010227630068 79.972191047159,13.4772249812913,41.5048756484455 79.9731370519465,13.4780485389394,40.0334010912259 79.9733240405666,13.4784009739032,39.4210599008857 79.973580846329,13.4800668659209,39.2960477402129 79.9736066137476,13.4808328917212,40.2461140115504 79.9736497803434,13.4812614557937,38.7754287871124 79.9735220576557,13.4815234832366,39.3734062798655 79.9733615111863,13.4817900895739,39.2371508077739 79.9730363220431,13.48202259522,38.8712937344788 79.9727723816816,13.4821778451837,39.1386656712784 79.9726996704389,13.4830355479425,37.0680431963922</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+    <name>road31</name>
+    <Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+    <ExtendedData><SchemaData schemaUrl="#Road_Network">
+      <SimpleData name="tessellate">-1</SimpleData>
+      <SimpleData name="extrude">0</SimpleData>
+      <SimpleData name="visibility">-1</SimpleData>
+    </SchemaData></ExtendedData>
+        <LineString><coordinates>79.970589180936,13.4995483545001,35.4317535902315 79.9708119326203,13.4990684885207,35.1790014015835 79.9711956940972,13.498778704754,35.0526253072595 79.9713879894187,13.4985591076696,34.9894372600976 79.9714945761833,13.4983955232617,34.9262492129356 79.9723215319561,13.4965339885311,34.4207448356396 79.973101744715,13.4956002814316,34.2943687413156 79.9739442077299,13.4946495312823,34.1679926469916 79.9755570969667,13.4927744369632,33.9152404583436 79.9788066399691,13.4890013115182,33.4097360810476 79.9799270854587,13.4877777174348,33.1569838923996 79.9802433284524,13.4874545306318,33.0306077980756 79.9809926466736,13.4871179884993,32.9674197509136 79.9814238806054,13.4869387765917,32.9358257273326 79.9818506157474,13.4865779314556,32.9042317037516 79.9819945073501,13.4858960668995,32.6514795151036 79.9823161007121,13.4854275879669,32.5882914679416 79.9826995085583,13.4849549945241,32.5251034207796 79.9829513157181,13.4844778569862,32.4619153736176 79.9832199670153,13.4839785273154,32.3987273264556 79.9833909635511,13.4826007156522,32.1459751378076 79.9834378860193,13.4822374854435,32.0827870906456 79.9836856369848,13.481913151005,32.0195990434836 79.9843702145066,13.4813727361823,31.8932229491596 79.988232310471,13.4789909162619,31.3877185718636</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+    <name>road32</name>
+    <Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+    <ExtendedData><SchemaData schemaUrl="#Road_Network">
+      <SimpleData name="tessellate">-1</SimpleData>
+      <SimpleData name="extrude">0</SimpleData>
+      <SimpleData name="visibility">-1</SimpleData>
+    </SchemaData></ExtendedData>
+        <LineString><coordinates>79.9787417665495,13.5169053076207,26.7666655182919 79.978048899392,13.5192739524007,26.8523275103561 79.977899018991,13.5210311322219,26.9379895024203 79.978137419125,13.5219688488101,27.1093134865487 79.9786494953128,13.5241151186419,27.4519614548054 79.9792055584727,13.5248030256905,27.6232854389337 79.9797820108249,13.5252389917143,27.7089474309979 79.9801537484398,13.5256385838813,27.7946094230621 79.9802283402497,13.526839952651,28.1372573913188 79.9795866221045,13.5266715383352,28.3085813754471 79.9789932003172,13.5263129288869,28.4799053595755 79.978408106819,13.5258135289353,28.6512293437038 79.9777854825942,13.5254479190769,28.8225533278322 79.9773359718946,13.5253107169655,29.1652012960889 79.9769117311055,13.5253462964868,29.5078492643456 79.9739683190194,13.525614487016,30.8784411373725 79.9722026483516,13.5256304375685,31.5637370738859 79.9713561331682,13.5256430308948,31.9063850421426 79.9706869753722,13.5255643138876,32.2490330103993 79.9689939098938,13.5251506923377,33.6196248834261 79.9672937111901,13.5248792444235,34.990216756453 79.9640610954815,13.5249663408058,37.7314005025067 79.960765335931,13.5257702556718,40.4725842485604 79.9571167282165,13.5270657652788,43.213767994614 79.9553355075631,13.5276565458933,44.5843598676409 79.9534052603877,13.5281550206068,45.9549517406677 79.9494260549316,13.5289203345078,48.6961354867214</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+    <name>road33</name>
+    <Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+    <ExtendedData><SchemaData schemaUrl="#Road_Network">
+      <SimpleData name="tessellate">-1</SimpleData>
+      <SimpleData name="extrude">0</SimpleData>
+      <SimpleData name="visibility">-1</SimpleData>
+    </SchemaData></ExtendedData>
+        <LineString><coordinates>79.9729586564044,13.5150100545655,30.8003688770111 79.9745304126307,13.5152935051067,30.2189798832014 79.976170491701,13.5157345001214,29.6375908893917 79.9795296183529,13.5169131962287,28.4748129017723 79.9861911977647,13.5187464778071,26.1492569265335 79.9927757580063,13.5205473881352,23.8237009512947 79.9960400308195,13.5215836208682,22.6609229636753 79.9990158619554,13.5231901502091,21.498144976056</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+    <name>road34</name>
+    <Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+    <ExtendedData><SchemaData schemaUrl="#Road_Network">
+      <SimpleData name="tessellate">-1</SimpleData>
+      <SimpleData name="extrude">0</SimpleData>
+      <SimpleData name="visibility">-1</SimpleData>
+    </SchemaData></ExtendedData>
+        <LineString><coordinates>79.9957516039656,13.5117344885518,23.971190339064 79.9933515610801,13.5202607971635,26.4697176646474 79.9919538735582,13.5249251162514,27.7189813274391 79.9915751590272,13.5304919523277,28.343613158835 79.9913218422178,13.5305198907243,28.4216921377595 79.9910148889249,13.5301808982604,28.4997711166839 79.9900585808767,13.5298181704202,28.6559290745329 79.9887182106171,13.5298113279042,28.7340080534574 79.9873436330647,13.5295928486653,28.8120870323819 79.9865069399775,13.5296328552991,28.831606777113 79.9856669598337,13.5298263693175,28.8511265218441 79.9848635745771,13.5299483887912,28.8706462665752 79.9840224049363,13.5299560489302,28.8901660113064 79.9817800823058,13.5300411386803,28.9292055007686 79.980503056178,13.5300238589853,28.9389653731342 79.9803943634197,13.5287110373021,28.9487252454997 79.9802653957156,13.5268860219352,28.9682449902309</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+    <name>road35</name>
+    <Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+    <ExtendedData><SchemaData schemaUrl="#Road_Network">
+      <SimpleData name="tessellate">-1</SimpleData>
+      <SimpleData name="extrude">0</SimpleData>
+      <SimpleData name="visibility">-1</SimpleData>
+    </SchemaData></ExtendedData>
+        <LineString><coordinates>79.9914304171445,13.5139141296529,25.1317727571796 79.9914178235288,13.5130812352501,25.0987087375347 79.991345116249,13.51223784903,24.7375270602206 79.9913521998542,13.5116152089297,25.155735323716 79.9915199490037,13.509541296108,25.5372542551891 79.9916363791019,13.5080994328738,27.2969879408588 79.9917907233981,13.5073794794413,28.1249342718811 79.9919096521794,13.5064467686328,28.8025684359763 79.992088725136,13.5050923038233,29.4825999594434 79.992128692674,13.5035466254468,30.1008846464916 79.9922124667353,13.5000189994654,30.3819420234598</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+    <name>road36</name>
+    <Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+    <ExtendedData><SchemaData schemaUrl="#Road_Network">
+      <SimpleData name="tessellate">-1</SimpleData>
+      <SimpleData name="extrude">0</SimpleData>
+      <SimpleData name="visibility">-1</SimpleData>
+    </SchemaData></ExtendedData>
+        <LineString><coordinates>79.9916166309302,13.5080548050296,27.3437409189029 79.9897370217987,13.5079280725454,26.6893279592897 79.9880332850309,13.5076686653847,28.2065292265556 79.9860302408921,13.507141268027,27.6895787043157 79.9840448417383,13.5066847268017,28.8005932133449 79.9831251890118,13.5081894783031,28.467496625661 79.9815429783355,13.5097369477607,24.4454716124507 79.9809400990499,13.5112423297287,25.3261532050548 79.9800642651721,13.5123120775167,25.8674096488024 79.9795874141862,13.5139657523573,25.15531101549 79.9788126649175,13.516645479359,26.7982818391079</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+    <name>road37</name>
+    <Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+    <ExtendedData><SchemaData schemaUrl="#Road_Network">
+      <SimpleData name="tessellate">-1</SimpleData>
+      <SimpleData name="extrude">0</SimpleData>
+      <SimpleData name="visibility">-1</SimpleData>
+    </SchemaData></ExtendedData>
+        <LineString><coordinates>79.9816389961071,13.5174656362461,23.8934688006323 79.9838698436016,13.5096178534875,26.3667837857226 79.9913431532863,13.5117802388821,25.1313237576805</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+    <name>road38</name>
+    <Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+    <ExtendedData><SchemaData schemaUrl="#Road_Network">
+      <SimpleData name="tessellate">-1</SimpleData>
+      <SimpleData name="extrude">0</SimpleData>
+      <SimpleData name="visibility">-1</SimpleData>
+    </SchemaData></ExtendedData>
+        <LineString><coordinates>79.9914285640644,13.5139202275605,25.3498999896124 79.9921327482777,13.513726568798,25.0878277020097 79.9926159591489,13.5133462468766,25.6221429512907 79.9929408542867,13.5130230003571,25.7562581056241 79.9932271457696,13.5122100264532,25.8312250307918 79.9936752917877,13.5100811254778,26.2286303010946 79.9940447423183,13.5097901578116,25.0123810469358 79.9945256688291,13.5096591432123,24.7405337298776 79.9949046102374,13.5096569851848,24.9846708080088 79.9953980159647,13.5098858154009,25.1556797832052 79.9958782012216,13.5100226653215,25.1555508196133 79.9962127335549,13.5098489831583,24.625340202368 79.9964024151549,13.5097240545108,24.8273972666555 79.9966120829799,13.5095618849414,24.2352457020112 79.9966691801416,13.5094700670519,24.587484348447 79.9972460214698,13.5095092921748,24.4500971774419 79.9972816370947,13.5089999054067,24.8991906686316 79.9972166602827,13.5084944899602,24.6290127371235 79.9971066827659,13.507401122407,25.4454226896771 79.9969002058574,13.5057387215769,26.0637283191802 79.9967160321015,13.5042218147592,26.5446973343825 79.996569505857,13.5029289408342,26.9908444567178</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+    <name>road39</name>
+    <Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+    <ExtendedData><SchemaData schemaUrl="#Road_Network">
+      <SimpleData name="tessellate">-1</SimpleData>
+      <SimpleData name="extrude">0</SimpleData>
+      <SimpleData name="visibility">-1</SimpleData>
+    </SchemaData></ExtendedData>
+        <LineString><coordinates>79.9919225201073,13.4999499982523,30.1662269221578 79.9920987024493,13.4982104711964,30.0755900074132 79.9929148077789,13.4981695431735,29.5337626738165 79.9933629205681,13.4982490386431,28.8389177332069 79.9942275095165,13.4982027357492,28.536214492896 79.9940589570413,13.4976428638958,28.6349534922906 79.9933897587066,13.4970461414878,27.4094118810511 79.9933905769274,13.4964669244005,26.5308539925743 79.9935677965127,13.4945423959764,24.2230552834898 79.9939673582209,13.4937775301004,24.9022770905067 79.9947887816738,13.4926814175058,24.7271901536409 79.99526375807,13.4909377246291,24.6548266653361 79.9961524307665,13.4904016497617,25.6828249097131 79.9969272426577,13.4900908633113,26.3677529556817 79.9974538235491,13.4900864714482,26.3917858259995 79.9978751521252,13.4901726831151,26.3918179413475 79.998454008586,13.4903657022416,26.3630480006224 79.9990442799669,13.4907215396699,25.2950530243657 79.9997451926018,13.4911025813118,25.1560355630334 80.0002782673454,13.4913224294042,25.0724438774134 80.0007443479112,13.4913584466273,24.8290136707939 80.0014315519854,13.4913895684194,25.1554609017318 80.0018858919304,13.4915364029905,24.7445407921985 80.0020994642866,13.4918883314516,24.5597113571318 80.0025431321619,13.4921863219137,24.7370169422521 80.0036107642747,13.49315405761,23.8933017377297 80.0045389635188,13.4936029773222,23.4760980316232 80.0050374140911,13.4941729698711,22.9825757618049 80.0054464594198,13.4944017302032,22.7647109777724 80.0056772853886,13.4947085038738,22.6768979643556 80.0059647349622,13.4948585230518,22.9683712630899 80.0063684899242,13.494954279191,22.4521678732551 80.0065144325874,13.4952013903986,21.7395383195694 80.0072798029863,13.4955278986141,21.3739083157326 80.0081776713012,13.4955744419958,21.1582163481758 80.0085511686792,13.4955642135328,20.9216916670782 80.0086087703064,13.4955040521754,20.9447583679061 80.0088117534858,13.4955250155,20.9342825089021</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+    <name>road40</name>
+    <Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+    <ExtendedData><SchemaData schemaUrl="#Road_Network">
+      <SimpleData name="tessellate">-1</SimpleData>
+      <SimpleData name="extrude">0</SimpleData>
+      <SimpleData name="visibility">-1</SimpleData>
+    </SchemaData></ExtendedData>
+        <LineString><coordinates>79.9818451942228,13.486584554907,30.1583524572643 79.9823470298364,13.4870592281743,30.6411182428612 79.9825154962715,13.4872986762516,30.6418654063886 79.9826421299631,13.4875936727908,30.6747380538128 79.9828948158139,13.4877544777419,31.1695930964242 79.9832372177696,13.487853296499,30.886921454266 79.9840236138962,13.4879423085266,31.1111880626971 79.9843651663443,13.4880818017043,30.6744593539318 79.9843253942577,13.4890617967051,31.337015823344</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+    <name>road41</name>
+    <Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+    <ExtendedData><SchemaData schemaUrl="#Road_Network">
+      <SimpleData name="tessellate">-1</SimpleData>
+      <SimpleData name="extrude">0</SimpleData>
+      <SimpleData name="visibility">-1</SimpleData>
+    </SchemaData></ExtendedData>
+        <LineString><coordinates>79.9977682322454,13.5263764454921,20.4917965730129 79.9918798169461,13.5250108139802,20.7531786564913 79.9874332807414,13.5238425803617,21.4218619751903 79.9829868257937,13.5225412996947,22.6583569571713 79.9779081071325,13.5211136266001,25.1320996824245</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+    <name>road42</name>
+    <Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+    <ExtendedData><SchemaData schemaUrl="#Road_Network">
+      <SimpleData name="tessellate">-1</SimpleData>
+      <SimpleData name="extrude">0</SimpleData>
+      <SimpleData name="visibility">-1</SimpleData>
+    </SchemaData></ExtendedData>
+        <LineString><coordinates>79.9591284240128,13.5975397864577,18.9737850064617 79.9612400167503,13.599210176782,17.7832082807493 79.9619229415188,13.5997724338674,16.4078967217526 79.9620609648317,13.5997583772465,16.4179655581194 79.9621458545776,13.5995918852435,16.76684996286 79.9619939053689,13.5994376308937,17.1195012650629 79.9621193950559,13.5991848645161,17.280336148393 79.9621072664395,13.5984861578303,18.1935373049129 79.9619915920232,13.5973917580084,19.5919123902666 79.9619611699107,13.5969999243282,19.2738915889049 79.9620230573991,13.5964928863213,19.6865981602897 79.9620324691535,13.5956198261528,20.5366127333004 79.9621587163435,13.5945038986778,21.3855944036122 79.9626440493559,13.5931431135579,21.5814442962915 79.962765112578,13.5930784801925,21.5228833683109 79.9635199924268,13.5930039657524,22.230298914199 79.9636349380295,13.5927952490963,22.774555926225 79.9637692779693,13.591955632459,22.7631157381887 79.9638261518182,13.5916796147005,22.6830572586035 79.9643106803897,13.5910777649237,22.9780689409857 79.9649098743534,13.5890871859993,22.6828146520617 79.9646717780647,13.5884255851848,23.3385514566219 79.9646057830315,13.5876324124613,24.5474631870041 79.9625800614817,13.5877087366885,23.7881590847962 79.9607672914362,13.5877434909076,23.2630546282132</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+    <name>road43</name>
+    <Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+    <ExtendedData><SchemaData schemaUrl="#Road_Network">
+      <SimpleData name="tessellate">-1</SimpleData>
+      <SimpleData name="extrude">0</SimpleData>
+      <SimpleData name="visibility">-1</SimpleData>
+    </SchemaData></ExtendedData>
+        <LineString><coordinates>79.9649107371472,13.589082060642,22.6637927195932 79.965103733382,13.5882676919069,23.0210903043131 79.9652258196775,13.587309252378,23.2707836021774 79.9652542401142,13.5869445293992,24.0285233847717 79.9650834563514,13.5856497151543,23.5908932493151 79.9649625989963,13.5845189132489,24.4735123146582 79.9640287900736,13.5836658270689,24.5604996954155 79.9638105630817,13.5830802835933,24.5447736900059 79.9635581923468,13.5827803635683,24.8562518896483 79.9627970207933,13.5824201158924,24.5835679113318 79.9626669717091,13.5822851243417,24.3637914365274 79.962640723745,13.5817183824522,24.1913293415694 79.9626359759608,13.5810426110174,23.8022024112046 79.9626334480296,13.5808468056663,24.4731992204307 79.9623497750465,13.5807656557772,24.926796175479</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+    <name>road44</name>
+    <Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+    <ExtendedData><SchemaData schemaUrl="#Road_Network">
+      <SimpleData name="tessellate">-1</SimpleData>
+      <SimpleData name="extrude">0</SimpleData>
+      <SimpleData name="visibility">-1</SimpleData>
+    </SchemaData></ExtendedData>
+        <LineString><coordinates>79.9612406687153,13.5758986764607,23.0631476823678 79.9613464885013,13.5757074503847,22.9911059119871 79.9613311863822,13.5754940107391,23.5204232961846 79.961286020355,13.5752990510366,23.8213814969636 79.961109053943,13.5750570909419,23.5539101952605 79.960242339699,13.5736663367261,22.819943509684 79.9598423435051,13.5734686903265,22.8834545696818 79.95952839401,13.5733856046802,23.2309317854649 79.9594587394562,13.5733856356124,23.0451973658661 79.9591412522547,13.5729922351292,23.5643720011473 79.9583444823684,13.5728038755568,24.6778999485229 79.95831042094,13.5727528780636,24.5280107345885 79.9590403626125,13.572405301027,23.7869955520496 79.9595028547229,13.5723861295108,22.719881648523 79.9598120521381,13.5713313381882,23.210976018125 79.960059872199,13.5710475752445,23.0899365820126 79.9602589821074,13.5705118522111,23.2818915883303 79.9603090205408,13.5703213026774,23.2819736619865 79.9602621847852,13.5700916097475,23.5421358474674 79.960346313201,13.5693908562726,23.8258636774371 79.9603055054723,13.5690852274019,23.9061810008984 79.9600436414682,13.5687137018506,24.2092214339723 79.9599090105763,13.5681806004854,24.3141211380192 79.9596749014285,13.5669305763932,24.4111193305099 79.9601672918576,13.5665405337717,24.5896266976402 79.9603262263499,13.5661668882448,24.5318970849616 79.9605045612657,13.5659679257438,24.5370531289557 79.9605928940619,13.5657842129746,24.5372668837434 79.9606280610012,13.5650944181674,24.9257410628003 79.9607062476324,13.564846583244,24.692906544392 79.9618754551472,13.564404736296,25.155270358495 79.9619714754995,13.5641516793959,25.1555427363123 79.9615402195031,13.5617824865356,26.3917275269244 79.9609297085548,13.5611486190482,26.9341895029149 79.9607197651748,13.5607880319274,25.3824668621999 79.9606833227709,13.560432859979,26.0816153641175 79.960795856766,13.5600745051263,26.3918484496548 79.961387243581,13.5592660411873,28.335329273829 79.9614496745396,13.5588276412138,28.3933426564884</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+    <name>road45</name>
+    <Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+    <ExtendedData><SchemaData schemaUrl="#Road_Network">
+      <SimpleData name="tessellate">-1</SimpleData>
+      <SimpleData name="extrude">0</SimpleData>
+      <SimpleData name="visibility">-1</SimpleData>
+    </SchemaData></ExtendedData>
+        <LineString><coordinates>79.9986207316325,13.547272447612,17.2594089943398 79.9989754437761,13.5480698260387,17.6374010658908 79.9975442427761,13.5508259871222,14.1983392821702 79.9974054354652,13.552689044743,12.8915638278944 79.9903880734969,13.552449898368,14.2319731236046 79.9897795051348,13.5518452134587,15.2408004956712 79.9900339820828,13.5493575221575,15.2401992531261 79.9903587595575,13.5470834499344,15.9294935434733 79.9907588344235,13.5463937177464,15.8684045426086 79.9920911842992,13.5454880393624,16.2688992366704 79.9921914971991,13.5451002811241,16.0554352950724 79.9946928340652,13.5443524661131,18.0687661352534</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+    <name>road46</name>
+    <Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+    <ExtendedData><SchemaData schemaUrl="#Road_Network">
+      <SimpleData name="tessellate">-1</SimpleData>
+      <SimpleData name="extrude">0</SimpleData>
+      <SimpleData name="visibility">-1</SimpleData>
+    </SchemaData></ExtendedData>
+        <LineString><coordinates>79.9921848287689,13.5451424677419,16.3284795984825 79.9893125708857,13.5460083201177,16.9632418582681 79.9891493937329,13.5464535144509,17.8286045444909 79.9880900621101,13.5468345630756,17.7128441249285 79.9879032307331,13.547986324151,18.5898563671506 79.9864053929696,13.547680394779,19.3301866137159 79.9864118566887,13.5489738516394,18.5035072517017 79.9887828962841,13.5490313239382,16.7914457698735 79.9889661010253,13.5489682283831,16.684868739855 79.988962012421,13.548875272383,16.6659690231056 79.9887032245831,13.5486198403646,17.1592122634298 79.9882399587419,13.5486076281125,17.8106760390383 79.9881614700513,13.5480116253789,18.037469028434 79.9878997475657,13.547980252654,18.605246798155</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+    <name>road47</name>
+    <Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+    <ExtendedData><SchemaData schemaUrl="#Road_Network">
+      <SimpleData name="tessellate">-1</SimpleData>
+      <SimpleData name="extrude">0</SimpleData>
+      <SimpleData name="visibility">-1</SimpleData>
+    </SchemaData></ExtendedData>
+        <LineString><coordinates>79.9974059334225,13.5526984559406,12.9968731561169 79.9973689816387,13.5528018054393,12.7289499237632 79.983798264164,13.5525515337026,20.092036563865 79.9837606217305,13.5542031616068,19.6589008554931 79.9844380641099,13.5542109615008,19.0573917736483</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+    <name>road48</name>
+    <Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+    <ExtendedData><SchemaData schemaUrl="#Road_Network">
+      <SimpleData name="tessellate">-1</SimpleData>
+      <SimpleData name="extrude">0</SimpleData>
+      <SimpleData name="visibility">-1</SimpleData>
+    </SchemaData></ExtendedData>
+        <LineString><coordinates>80.0379778682344,13.5839046596263,9.08369611082841 80.036351340919,13.583702472485,10.8005182452526 80.0364519192947,13.5828729299028,10.9381355696497 80.0357413714297,13.5827531515899,11.9958242155372 80.0357417680592,13.5821203805807,12.7493132951608 80.0337897510321,13.5818676758112,14.8558304770881 80.0339867208183,13.5818856857689,14.1276119818616 80.0339989676178,13.5808416105813,14.4520135081409</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+    <name>road49</name>
+    <Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+    <ExtendedData><SchemaData schemaUrl="#Road_Network">
+      <SimpleData name="tessellate">-1</SimpleData>
+      <SimpleData name="extrude">0</SimpleData>
+      <SimpleData name="visibility">-1</SimpleData>
+    </SchemaData></ExtendedData>
+        <LineString><coordinates>80.0338936709658,13.5891240061678,14.1147972577822 80.0329557842964,13.5874465789283,14.598063346517 80.0323540501382,13.5863146257028,15.5056098280193 80.0320240919566,13.5862122140991,16.077522377348 80.0304173238665,13.5862457570579,17.6921819769598 80.0303010735397,13.5861789929442,17.9993588476093 80.0300438635718,13.5855188714603,17.8154240277018 80.0274054424416,13.5860148164772,16.4663622614064</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+    <name>road50</name>
+    <Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+    <ExtendedData><SchemaData schemaUrl="#Road_Network">
+      <SimpleData name="tessellate">-1</SimpleData>
+      <SimpleData name="extrude">0</SimpleData>
+      <SimpleData name="visibility">-1</SimpleData>
+    </SchemaData></ExtendedData>
+        <LineString><coordinates>80.0300672955031,13.585529487291,17.4829559018129 80.0281021491642,13.580760182745,16.9273551652101 80.0271223633346,13.5774689272428,15.1470874039352 80.0276696723514,13.5758177888681,13.8968566500101 80.0278510732177,13.5728851503848,13.3739403885456 80.0277647777931,13.5699642446703,13.6752412652648 80.0340438998138,13.5703401252963,20.1803526545452 80.0351509424145,13.5703064435118,21.0632285705247 80.0353914078734,13.5703424422788,21.0850412492065 80.0357442540342,13.57053644394,20.6730256359535 80.0359533543531,13.5703534764216,20.2926732221351</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+    <name>road51</name>
+    <Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+    <ExtendedData><SchemaData schemaUrl="#Road_Network">
+      <SimpleData name="tessellate">-1</SimpleData>
+      <SimpleData name="extrude">0</SimpleData>
+      <SimpleData name="visibility">-1</SimpleData>
+    </SchemaData></ExtendedData>
+        <LineString><coordinates>80.0357541754356,13.5705444299034,20.5656500708657 80.0361612780645,13.570912263436,20.2461211071878 80.0357487310862,13.5723026775326,18.3070144876188 80.0356025627487,13.5731182973185,17.9579510860017 80.0340222672912,13.5750217474348,15.8714423175546 80.0338790635632,13.5757693423332,14.8121358514656 80.034985619831,13.5771730410112,12.9893500757391 80.0349700389661,13.5773308401927,13.3486022009308 80.0351015293867,13.5775168292474,12.7611366506184 80.0351712718096,13.577782915464,13.4837917835522 80.035592556372,13.5782614239469,12.353965649344 80.035704013064,13.5791764439287,13.7338323563785 80.0355807919432,13.5801611846475,13.5057258433105 80.0357585124979,13.580763957151,13.4939836136947 80.0357690346626,13.5811657534959,13.006593649462 80.0358206158198,13.5816097121828,12.9458666698543 80.0357472391075,13.5821318144842,12.7499799284135</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+    <name>road52</name>
+    <Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+    <ExtendedData><SchemaData schemaUrl="#Road_Network">
+      <SimpleData name="tessellate">-1</SimpleData>
+      <SimpleData name="extrude">0</SimpleData>
+      <SimpleData name="visibility">-1</SimpleData>
+    </SchemaData></ExtendedData>
+        <LineString><coordinates>80.0339078635591,13.5787177868548,18.0622496451143 80.0352745932876,13.5792486222916,19.1046536587219 80.0354569241479,13.5797098159192,14.8552112656791 80.035438230273,13.5813538719496,12.7183724519794</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+    <name>road53</name>
+    <Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+    <ExtendedData><SchemaData schemaUrl="#Road_Network">
+      <SimpleData name="tessellate">-1</SimpleData>
+      <SimpleData name="extrude">0</SimpleData>
+      <SimpleData name="visibility">-1</SimpleData>
+    </SchemaData></ExtendedData>
+        <LineString><coordinates>79.9627475447826,13.5438035827744,41.2783756157573 79.954527843547,13.5454408676,38.3490858780048 79.9543714997323,13.5452666579857,39.0622486211597 79.9535926773425,13.5423779489899,42.2791750703601 79.9522566319488,13.5395813944384,43.6749153589251 79.9524466144817,13.5386176852793,44.9172023867712 79.951399827507,13.5363670642282,45.7810028258403 79.9539387654887,13.5352263904563,48.6215169272097 79.9557194280535,13.5358098616347,49.3184810535595 79.9564215735956,13.5374123358218,48.6208993284998 79.9578721506755,13.5367917664253,48.6201221602799 79.9603863851098,13.5419218340665,43.6744184367969 79.9542554913238,13.5447037806758,39.9654112006421</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+    <name>road54</name>
+    <Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+    <ExtendedData><SchemaData schemaUrl="#Road_Network">
+      <SimpleData name="tessellate">-1</SimpleData>
+      <SimpleData name="extrude">0</SimpleData>
+      <SimpleData name="visibility">-1</SimpleData>
+    </SchemaData></ExtendedData>
+        <LineString><coordinates>79.9522535322831,13.539543804447,43.6747400330612 79.9519964813207,13.5390727665638,43.7414843526086 79.9509265556789,13.5395192746927,42.4385166805485 79.9499072318761,13.5384448628835,42.43963651905 79.9494833951196,13.5371216263791,42.4892376285197 79.9466909377174,13.5383374270401,37.3989909034512 79.9479871328902,13.5402826446761,37.0295245853552 79.9505530889197,13.5409592303996,40.3291482196029 79.9528678417716,13.545702781806,37.1669385243374</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+    <name>road55</name>
+    <Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+    <ExtendedData><SchemaData schemaUrl="#Road_Network">
+      <SimpleData name="tessellate">-1</SimpleData>
+      <SimpleData name="extrude">0</SimpleData>
+      <SimpleData name="visibility">-1</SimpleData>
+    </SchemaData></ExtendedData>
+        <LineString><coordinates>79.9479622804062,13.5402292709837,37.4494298129713 79.9468491578363,13.5405619963313,35.1804484914948 79.946809172825,13.5401482651099,35.5428753437439 79.946074580684,13.5398637676054,35.1769142768156 79.945626803115,13.5386688947094,35.4766690786416 79.9463567323954,13.5383345037894,36.5057130990179 79.9464464784867,13.5382212331254,37.1056557916185 79.9465854901862,13.5382006240322,37.2684848864054 79.9466915442876,13.5383355608011,37.1902532455664</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+    <name>road56</name>
+    <Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+    <ExtendedData><SchemaData schemaUrl="#Road_Network">
+      <SimpleData name="tessellate">-1</SimpleData>
+      <SimpleData name="extrude">0</SimpleData>
+      <SimpleData name="visibility">-1</SimpleData>
+    </SchemaData></ExtendedData>
+        <LineString><coordinates>79.9711848549691,13.5257198002592,33.8603126747644 79.969820815118,13.5292939439144,36.9281392003723 79.9622982087113,13.5350766855625,46.2290637043341 79.9581846652073,13.5362389071509,49.4418868102435 79.9540225178561,13.5349950191879,50.0918957189996 79.9498375193026,13.5367072173575,43.7000748764472 79.9497738725909,13.5367330860663,43.8718257427763 79.9496641764496,13.5316194250244,45.0864567990227 79.9478191915807,13.529956628,45.0076398120426</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+    <name>road57</name>
+    <Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+    <ExtendedData><SchemaData schemaUrl="#Road_Network">
+      <SimpleData name="tessellate">-1</SimpleData>
+      <SimpleData name="extrude">0</SimpleData>
+      <SimpleData name="visibility">-1</SimpleData>
+    </SchemaData></ExtendedData>
+        <LineString><coordinates>79.9494849046664,13.5371030550871,42.899019320974 79.9497542906861,13.5369641002111,43.2840030163777 79.9497881621349,13.5367547174323,43.6084024532214</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+    <name>road58</name>
+    <Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+    <ExtendedData><SchemaData schemaUrl="#Road_Network">
+      <SimpleData name="tessellate">-1</SimpleData>
+      <SimpleData name="extrude">0</SimpleData>
+      <SimpleData name="visibility">-1</SimpleData>
+    </SchemaData></ExtendedData>
+        <LineString><coordinates>79.955499461043,13.5131713636247,44.3409281072069 79.9567501509828,13.5127401614729,41.689180621009 79.9575360045187,13.5126266827695,40.927669838472 79.959060545519,13.513251513142,39.5003952886006 79.9615285787494,13.5130495790746,37.8965967341173 79.961891531237,13.5132467751406,37.8419043220374 79.9619914464464,13.5134702526465,37.4457582175422 79.9638625894533,13.5150610399141,34.5117440223876 79.9646326450745,13.5157980513727,33.3814177533846 79.9668609262937,13.5169453616973,31.8067486909072 79.9677790396563,13.51719408829,31.3101506034182 79.9680912646834,13.5173281692434,31.222357728936 79.9683170873577,13.5175966447764,30.783766218233 79.9714580705822,13.5178956115562,29.0053183695857 79.9724370495147,13.5183291817332,28.5909720085098 79.9729521038947,13.518413907971,27.9820968736742 79.9731085987906,13.5174703038825,29.4186197779877 79.9729633110337,13.5150485569177,30.7892309441662</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+    <name>road59</name>
+    <Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+    <ExtendedData><SchemaData schemaUrl="#Road_Network">
+      <SimpleData name="tessellate">-1</SimpleData>
+      <SimpleData name="extrude">0</SimpleData>
+      <SimpleData name="visibility">-1</SimpleData>
+    </SchemaData></ExtendedData>
+        <LineString><coordinates>80.0332221702214,13.568152364324,20.2002372480949 80.0359577092808,13.5649347836026,22.1440920218414 80.0362070376335,13.5574994171948,22.2004845215856 80.0274912581421,13.5572937207647,14.5927312665055 80.0273613890097,13.5581234453145,13.6655724504402 80.0271351452711,13.5583497286908,12.8665101996343 80.0267095913196,13.560833469302,11.6026549443496 80.025882396039,13.5621890903372,12.7116908553964</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+    <name>road60</name>
+    <Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+    <ExtendedData><SchemaData schemaUrl="#Road_Network">
+      <SimpleData name="tessellate">-1</SimpleData>
+      <SimpleData name="extrude">0</SimpleData>
+      <SimpleData name="visibility">-1</SimpleData>
+    </SchemaData></ExtendedData>
+        <LineString><coordinates>80.0359533697697,13.5648683843924,21.606534576677 80.0355843994209,13.5648338057773,22.2947015280569 80.035512660648,13.5635078893193,22.4119363663272 80.034921937689,13.5635350292526,21.3384990877289 80.0339499072004,13.5635730910056,21.3523576737883 80.0338342197092,13.5574394592971,19.6056350781275</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+    <name>road61</name>
+    <Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+    <ExtendedData><SchemaData schemaUrl="#Road_Network">
+      <SimpleData name="tessellate">-1</SimpleData>
+      <SimpleData name="extrude">0</SimpleData>
+      <SimpleData name="visibility">-1</SimpleData>
+    </SchemaData></ExtendedData>
+        <LineString><coordinates>80.0277388246694,13.5699352957403,13.6209981398576 80.0270252234815,13.5697167804952,13.4384713364769 80.0266100707365,13.56942170629,13.4954413947228 80.0239492450869,13.5690423726675,10.2952861808769 80.0227590791164,13.56884368203,8.22257856800807 80.0185795251252,13.5691043729029,6.96419853393311 80.0185020040909,13.568622226371,7.37952046483751 80.0183311156529,13.5685182864204,7.31782408892689 80.0173467470602,13.5682485243696,8.04987753610629 80.0169841995423,13.5670671907397,7.37225307649919 80.016897295196,13.565969533409,7.82838517342961 80.016080401053,13.5653936076218,7.43563340742384 80.0156776195093,13.5653065250661,7.48100293996924 80.0151853813552,13.5654456594051,8.62019540605212 80.0150834118969,13.5660021192616,8.50819381055373 80.0148423050142,13.566189257223,8.76142847555945 80.0148689904962,13.5663420341195,8.85079449140263 80.0148391133678,13.5665117373569,8.29786113801429 80.0147797908071,13.5667230081764,8.48281868364001 80.0143425090891,13.5671687202294,8.69612702947537 80.0141420038757,13.5673484781004,8.23329700384618 80.0141166244775,13.5675043590606,8.31839570308789 80.0141599902956,13.5678086792442,8.85099430483032 80.0141910542728,13.5685403439212,8.96752693992854 80.0142461420204,13.5688136642866,8.64576689040748 80.0142375249121,13.569193081025,7.71636011598754</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+    <name>road62</name>
+    <Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+    <ExtendedData><SchemaData schemaUrl="#Road_Network">
+      <SimpleData name="tessellate">-1</SimpleData>
+      <SimpleData name="extrude">0</SimpleData>
+      <SimpleData name="visibility">-1</SimpleData>
+    </SchemaData></ExtendedData>
+        <LineString><coordinates>80.0142711389629,13.5672244792233,8.52088985129111 80.0140009841906,13.5665916644896,10.0664274454988 80.0141676818971,13.566511195634,9.63636162176223 80.0139846025962,13.5651170516287,10.9303786846725 80.0141750895358,13.564789253737,10.5374377844198 80.0149815353463,13.5647343766638,9.16880507617356 80.0151871006288,13.565443357542,8.62793112364527</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+    <name>road63</name>
+    <Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+    <ExtendedData><SchemaData schemaUrl="#Road_Network">
+      <SimpleData name="tessellate">-1</SimpleData>
+      <SimpleData name="extrude">0</SimpleData>
+      <SimpleData name="visibility">-1</SimpleData>
+    </SchemaData></ExtendedData>
+        <LineString><coordinates>80.014962555231,13.5647437074304,9.00115886027043 80.0148068029703,13.5635964218069,9.09165718757003 80.0136954187612,13.5623170711152,9.85206523470467 80.0132867863217,13.5621790998694,10.8220288243543 80.0136025227804,13.5613079380656,9.01088051504193 80.0137820374024,13.5605910755528,9.48265350647566 80.0139661862504,13.5594594182359,11.0548754931777 80.0144348553245,13.5567388636972,12.012446956664 80.0146251567797,13.5557768388644,12.5798498954868 80.0143075593077,13.5551680030526,13.3989241798582</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+    <name>road64</name>
+    <Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+    <ExtendedData><SchemaData schemaUrl="#Road_Network">
+      <SimpleData name="tessellate">-1</SimpleData>
+      <SimpleData name="extrude">0</SimpleData>
+      <SimpleData name="visibility">-1</SimpleData>
+    </SchemaData></ExtendedData>
+        <LineString><coordinates>79.99738388239,13.5528137228363,12.7673341389584 79.9973929788147,13.5553903804929,13.9056230012061 79.9973380681284,13.5557683121787,13.391635611404 79.9968489937921,13.5557649964377,13.3916891671631 79.9968635878195,13.556072237634,13.9776285891247 79.9958307201244,13.5579811433909,16.183529227671 79.995953327966,13.5584320187156,16.9487158764605 79.9961848949901,13.5586706774264,16.9116244207285 79.9967071565602,13.5608660229395,15.8834458709252 79.9972840111681,13.5608266639142,16.3689243396074 79.998500857368,13.5623313945197,14.8488136526888 79.9991291305064,13.5627060938728,14.6255071533939 79.9994722557868,13.5630328746326,13.8605728849518 80.0007562749626,13.563764921527,12.0260279009994 80.0006632936112,13.5644578694965,12.2621562938118 80.0006571975321,13.5647403783463,11.8320743190345 80.0020105625434,13.5635590545648,11.5594957504141 80.0022780740952,13.563102801836,12.0745155647637 80.0022644870205,13.562540541369,11.4578709786292 80.0023409859041,13.5621287699617,12.0375964867683 80.0026049707145,13.5618987905753,12.0283640853161 80.0032904768309,13.5620132960546,12.1810190670171 80.0035318935348,13.5621483739695,10.7520889046124 80.0039638456253,13.5622055987559,10.319940905167 80.0051772305617,13.5627532996138,10.3612174609649 80.0054834655887,13.5629242111665,11.5097747523219 80.0069750333336,13.5639175670117,10.8177501877364 80.0075020360515,13.5639490413398,10.395065081236 80.0085081483575,13.5639021902339,12.1012859098801 80.0090487013442,13.5638452565338,11.7341269201028 80.0096247098783,13.5638877824655,11.6778375383242 80.0105819208991,13.5637395681782,10.3387361699372 80.0111699225288,13.5642497034549,10.3198980681988 80.0116494095343,13.5642844527083,10.4179266934123 80.0120001688214,13.5641558113692,11.8935345547612 80.0121685219836,13.5638115336471,12.0884955007774 80.0122214218194,13.5631672428783,12.2773895927453 80.0124267641982,13.5630723494326,11.9667589966667 80.0128152426337,13.562927780158,11.2773786065739 80.0132725714928,13.5621787917908,10.7857194753797</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+    <name>road65</name>
+    <Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+    <ExtendedData><SchemaData schemaUrl="#Road_Network">
+      <SimpleData name="tessellate">-1</SimpleData>
+      <SimpleData name="extrude">0</SimpleData>
+      <SimpleData name="visibility">-1</SimpleData>
+    </SchemaData></ExtendedData>
+        <LineString><coordinates>80.0123496699352,13.5631145116368,12.4639161489588 80.0122677441801,13.5639754367892,11.3542173548922 80.0114888939519,13.5650909430481,10.59429351927 80.0111839480097,13.5657924787389,11.8055536565311 80.0111197324682,13.5660799159707,11.3297575733954 80.0110024853032,13.5666531816749,10.4627462092457 80.0106514313802,13.567457480017,9.04294826996687 80.0103156388756,13.5683891854462,8.24201104417363 80.010158056035,13.5690960907842,8.49425665350766 80.0099160133581,13.5708901756797,7.46880310413338 80.0098531247207,13.5715851357818,7.73064696138587 80.0098852907355,13.57249346999,6.89337447025939 80.0099922194142,13.5737455939801,6.62698681752246 80.0098328836208,13.5740504574208,7.11229656109027 80.0095973002456,13.5743751605737,7.08429403034054 80.009522738223,13.5746439931169,6.79957564658651 80.009665643979,13.5749439688183,6.79587837528903 80.0097334096933,13.5757800716397,6.17188944677263 80.0097695479002,13.5765279723122,6.26272325228132 80.00944897325,13.5775294554233,5.92846187139913 80.0095352841359,13.5795801382808,5.50074338789654 80.0094456620931,13.581007727475,6.05947316265738 80.0093475829423,13.5817516065156,6.34355238563062 80.009389756138,13.5826274018135,5.93011785315573 80.0094157161023,13.5837810270869,5.76748264866361 80.0095537804293,13.5848912708004,5.56020119871782 80.0097185542664,13.5865527773177,4.58768750869389 80.0101536155644,13.5879929653276,5.99265339142305</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+    <name>road66</name>
+    <Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+    <ExtendedData><SchemaData schemaUrl="#Road_Network">
+      <SimpleData name="tessellate">-1</SimpleData>
+      <SimpleData name="extrude">0</SimpleData>
+      <SimpleData name="visibility">-1</SimpleData>
+    </SchemaData></ExtendedData>
+        <LineString><coordinates>80.0094435623481,13.5809590659071,5.99724363122907 80.0134573006767,13.5810936907191,5.35576952826304</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+    <name>road67</name>
+    <Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+    <ExtendedData><SchemaData schemaUrl="#Road_Network">
+      <SimpleData name="tessellate">-1</SimpleData>
+      <SimpleData name="extrude">0</SimpleData>
+      <SimpleData name="visibility">-1</SimpleData>
+    </SchemaData></ExtendedData>
+        <LineString><coordinates>80.0159192954032,13.5833495041611,7.51370572631628 80.0155409268087,13.5812199254978,6.40937503203878 80.0139645723738,13.5812878539496,6.28290992985008 80.0138683394892,13.582490472484,5.85598699933801</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+    <name>road68</name>
+    <Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+    <ExtendedData><SchemaData schemaUrl="#Road_Network">
+      <SimpleData name="tessellate">-1</SimpleData>
+      <SimpleData name="extrude">0</SimpleData>
+      <SimpleData name="visibility">-1</SimpleData>
+    </SchemaData></ExtendedData>
+        <LineString><coordinates>80.015652609986,13.5818862962976,6.59202089364339 80.0144632624658,13.5820197112761,6.57838564661457 80.0145687073151,13.5830415761831,5.82857313349447 80.0158407064956,13.5829405566629,6.34859472584505</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+    <name>road69</name>
+    <Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+    <ExtendedData><SchemaData schemaUrl="#Road_Network">
+      <SimpleData name="tessellate">-1</SimpleData>
+      <SimpleData name="extrude">0</SimpleData>
+      <SimpleData name="visibility">-1</SimpleData>
+    </SchemaData></ExtendedData>
+        <LineString><coordinates>80.0152638698094,13.581941531077,6.36405707757399 80.0154221003951,13.5836976585358,7.1017427889111</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+    <name>road70</name>
+    <Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+    <ExtendedData><SchemaData schemaUrl="#Road_Network">
+      <SimpleData name="tessellate">-1</SimpleData>
+      <SimpleData name="extrude">0</SimpleData>
+      <SimpleData name="visibility">-1</SimpleData>
+    </SchemaData></ExtendedData>
+        <LineString><coordinates>80.0207843347763,13.5844148661341,11.2281313501814 80.0207134340497,13.585378103476,10.60513488381 80.0207948772925,13.5864373463554,9.26630448707976 80.0210885771452,13.5889636385386,8.23240641619089 80.0214411757004,13.5894580643253,9.11929338238515 80.0218672929319,13.5918296085596,7.38290401097432 80.0222573793902,13.591730269592,7.77475834101192 80.0231787351353,13.5909238153661,9.80880450720962 80.0232676435576,13.5907746011002,9.99184058542845 80.0234070442348,13.5907717318655,9.98122532414198 80.0233697156693,13.5906337401603,9.92233319160508 80.0234775848989,13.5900391163983,10.3660378470895 80.0234478998771,13.5891961699049,10.7872845617328 80.0233216478874,13.5891588170803,10.8762779266509 80.023269570705,13.589104623492,11.0599044776966 80.0232626607575,13.5888835739512,11.2280905602094 80.023723601138,13.5887142698245,11.8463795675938</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+    <name>road71</name>
+    <Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+    <ExtendedData><SchemaData schemaUrl="#Road_Network">
+      <SimpleData name="tessellate">-1</SimpleData>
+      <SimpleData name="extrude">0</SimpleData>
+      <SimpleData name="visibility">-1</SimpleData>
+    </SchemaData></ExtendedData>
+        <LineString><coordinates>80.0232544622405,13.5888829877133,11.2280926496451 80.022786651099,13.5890757462049,11.0707278507383 80.0227644666638,13.590114131873,10.622453152383 80.0225153085433,13.5901683478962,10.1421243815821 80.0226095747401,13.590822485403,9.42308389457681</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+    <name>road72</name>
+    <Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+    <ExtendedData><SchemaData schemaUrl="#Road_Network">
+      <SimpleData name="tessellate">-1</SimpleData>
+      <SimpleData name="extrude">0</SimpleData>
+      <SimpleData name="visibility">-1</SimpleData>
+    </SchemaData></ExtendedData>
+        <LineString><coordinates>80.0229819306282,13.5889944074225,11.132975236444 80.0229177218519,13.5898493195476,10.9028067601634 80.023054963393,13.5907888375887,9.95709438049468</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+    <name>road72</name>
+    <Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+    <ExtendedData><SchemaData schemaUrl="#Road_Network">
+      <SimpleData name="tessellate">-1</SimpleData>
+      <SimpleData name="extrude">0</SimpleData>
+      <SimpleData name="visibility">-1</SimpleData>
+    </SchemaData></ExtendedData>
+        <LineString><coordinates>80.0258304597247,13.5850900647727,15.136812074171 80.0250800934033,13.5909984948819,12.1553430104375 80.0290260036344,13.5911818924836,16.1732162668447 80.0299634142782,13.5884324983095,16.576703860376</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+    <name>road73</name>
+    <Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+    <ExtendedData><SchemaData schemaUrl="#Road_Network">
+      <SimpleData name="tessellate">-1</SimpleData>
+      <SimpleData name="extrude">0</SimpleData>
+      <SimpleData name="visibility">-1</SimpleData>
+    </SchemaData></ExtendedData>
+        <LineString><coordinates>80.0255245623779,13.5875161731961,13.6546043588674 80.024161871033,13.5876040744002,12.1552074248764</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+    <name>road74</name>
+    <Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+    <ExtendedData><SchemaData schemaUrl="#Road_Network">
+      <SimpleData name="tessellate">-1</SimpleData>
+      <SimpleData name="extrude">0</SimpleData>
+      <SimpleData name="visibility">-1</SimpleData>
+    </SchemaData></ExtendedData>
+        <LineString><coordinates>80.0217378531129,13.5599448770273,10.0568985521327 80.0224806186684,13.5588654338855,9.54951889729154 80.0226607360927,13.5571470265897,10.2960899289256 80.0232025672693,13.5563532276537,10.2944729150738 80.0229301140253,13.5540417348535,12.1349001089215 80.0204914269703,13.5525925900112,12.2756842171253 80.0171244460051,13.550582345011,14.0033597391862 80.0168890400903,13.5507542998066,14.0037284474861 80.0147987965469,13.5551818264988,13.9982917513963</coordinates></LineString>
+    </Placemark>
+    <Placemark>
+    <name>road75</name>
+    <Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+    <ExtendedData><SchemaData schemaUrl="#Road_Network">
+      <SimpleData name="tessellate">-1</SimpleData>
+      <SimpleData name="extrude">0</SimpleData>
+      <SimpleData name="visibility">-1</SimpleData>
+    </SchemaData></ExtendedData>
+        <LineString><coordinates>80.0169078920173,13.5507216083124,14.0676461693858 80.0180155972505,13.5487083076924,13.032389040122 80.0191912736306,13.5465910504879,12.9640382331215</coordinates></LineString>
+    </Placemark>
+  </Folder>
+  </Document></kml>
+  `,
 };

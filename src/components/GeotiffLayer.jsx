@@ -28,7 +28,10 @@ const GeotiffLayer = ({ mapType, year }) => {
   };
 
   useEffect(() => {
-    const kml = kmlData[mapType][year];
+    let kml = kmlData[mapType];
+    if (mapType === "water" || mapType === "agro") {
+      kml = kml[year];
+    }
     parseTextAsKml(kml);
   }, [mapType, year]);
 

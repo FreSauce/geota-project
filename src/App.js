@@ -30,6 +30,8 @@ function App() {
           >
             <option value="water">Water Shape Files</option>
             <option value="agro">Agricultural land Shape Files</option>
+            <option value="industry">Industrial area Shape Files</option>
+            <option value="road">Road Network Shape File</option>
           </Form.Select>
           <Form.Label>Select Year</Form.Label>
           <Form.Select
